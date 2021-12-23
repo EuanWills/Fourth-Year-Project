@@ -15,6 +15,7 @@ class RadarActivityAppMenuDelegate extends WatchUi.MenuInputDelegate {
             WatchUi.pushView(new $.RadarActivity(), new $.RadarActivityDelegate(), WatchUi.SLIDE_UP);
         } else if (item == :item_2) {
             System.println("Radar Screen");
+            WatchUi.pushView(new $.Radar(), new $.RadarDelegate(), WatchUi.SLIDE_UP);
         }
     }
     function onUpdate(dc) {
