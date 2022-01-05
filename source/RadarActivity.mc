@@ -40,8 +40,15 @@ class RadarActivity extends WatchUi.View {
 	var currentSpeed = 0;
 	var caloriesBurned = 0;
 	var heartRate = 0;
-	var _session as Session?;                                        // set up session variable
-
+	var distance = 0;
+	var time = 0;
+	var _session as Session?;
+	var minutes = 0;
+	var hours = 0;                                        // set up session variable
+	var clockTime = "";
+	var speedMPH;
+	var distanceKm;
+	var hr;
     function initialize() {
     	var i;
     	Sensor.setEnabledSensors([Sensor.SENSOR_HEARTRATE,Sensor.SENSOR_BIKESPEED]);
@@ -111,10 +118,28 @@ class RadarActivity extends WatchUi.View {
 //            }
 //        }
 //    }
+
+    function HMSConverter(totalSeconds){ //got this fropm forums #
+    	totalSeconds = totalSeconds /1000;
+    	var hours = (totalSeconds / 3600).toNumber();
+		var minutes = ((totalSeconds - hours * 3600) / 60).toNumber();
+		var seconds = totalSeconds - hours * 3600 - minutes * 60;
+		var timeString = Lang.format("$1$:$2$:$3$", [hours, minutes, seconds]);
+		return timeString;
     
+    }
+    
+    function MPStoMPH(speed){
+    	return speed * 2.2369;
+    }
+    
+    function metersToKm(distance){
+    	return distance / 1000;
+    
+    }
     function onUpdate(dc as Dc) as Void {
     	dc.clear();
-    	dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+    	dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
     	dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
     	if (Toybox has :ActivityRecording) {
             // Draw the instructions
@@ -122,62 +147,116 @@ class RadarActivity extends WatchUi.View {
                 dc.setColor(Graphics.COLOR_BLUE, Graphics.COLOR_WHITE);
                 dc.drawText(dc.getWidth() / 2, dc.getHeight() / 2, Graphics.FONT_MEDIUM, "Press Menu to\nStart Recording", Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
             }else{
-            
+            	
                	var activeInfo = Activity.getActivityInfo();
-		    	heartRate = activeInfo.currentHeartRate;
-		    	currentSpeed = activeInfo.currentSpeed;
+		    	//heartRate = activeInfo.currentHeartRate; //dont think you can display this...
+		    	currentSpeed = activeInfo.currentSpeed; //converts mps to mph
+		    	distance = activeInfo.elapsedDistance; //convert meters to km
+		    	time = activeInfo.elapsedTime; //convert milliseconds to seconds
 		    	caloriesBurned = activeInfo.calories;
-		        dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-		        dc.drawText(
-		        dc.getWidth() / 6,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 6,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        "Speed",                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		        dc.drawText(
-		        dc.getWidth() / 4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 4,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        currentSpeed,                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		
-		        dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() / 3,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 6,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        "Heart rate",                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
+		    	
+		    	dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+		    	
+		    	dc.drawLine(dc.getWidth()/2,0, dc.getWidth()/2,dc.getHeight()*3/4);
+		    	dc.drawLine(0,dc.getHeight()*3/8, dc.getWidth(), dc.getHeight()*3/8);
+		    	dc.drawLine(0,dc.getHeight()*3/4, dc.getWidth(), dc.getHeight()*3/4);
+		    	
+//		    	currentSpeed = currentSpeed * 2.2369;
+//		    	distance = distance / 1000;
+//		    	time = time / 1000;
+//		    	
+				
+
+		    	var timeString = HMSConverter(time);
+		    	if(currentSpeed != null){
+		    		speedMPH = MPStoMPH(currentSpeed);
+		    	}
+		        if(distance != null && distance != 0){
+		        	distanceKm = metersToKm(distance);
+		      	}  
 		        
 		        
 		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() / 4,                      // gets the width of the device and divides by 2
+		        dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
+		        dc.getHeight() / 8,                     // gets the height of the device and divides by 2
+		        Graphics.FONT_SMALL,                    // sets the font size
+		        "Speed",                          // the String to display#
+		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		                );
+		        dc.drawText(
+		        dc.getWidth() *1/4,                      // gets the width of the device and divides by 2
 		        dc.getHeight() / 4,                     // gets the height of the device and divides by 2
 		        Graphics.FONT_SMALL,                    // sets the font size
-		        heartRate,                          // the String to display
+		        speedMPH,                          // the String to display
 		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
 		                );
 		                
-		                dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+		        		       // dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
 		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() / 3,                      // gets the width of the device and divides by 2
-		        dc.getHeight() - dc.getHeight() / 3,                     // gets the height of the device and divides by 2
+		        dc.getWidth() - dc.getWidth() *1/4,                      // gets the width of the device and divides by 2
+		        dc.getHeight() / 8,                     // gets the height of the device and divides by 2
 		        Graphics.FONT_SMALL,                    // sets the font size
-		        "Calroies",                          // the String to display
+		        "Distance",                          // the String to display
+		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		                );
+		        dc.drawText(
+		        dc.getWidth() - dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
+		        dc.getHeight() / 4,                     // gets the height of the device and divides by 2
+		        Graphics.FONT_SMALL,                    // sets the font size
+		        distanceKm,                          // the String to display
+		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		                );
+		                
+		        		        dc.drawText(
+		        dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
+		        dc.getHeight() / 2,                     // gets the height of the device and divides by 2
+		        Graphics.FONT_SMALL,                    // sets the font size
+		        "Elapsed Time",                          // the String to display
+		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		                );
+		        dc.drawText(
+		        dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
+		        dc.getHeight() *5/8,                     // gets the height of the device and divides by 2
+		        Graphics.FONT_SMALL,                    // sets the font size
+		        timeString,                          // the String to display
+		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		                );
+		
+		        //dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+		        dc.drawText(
+		        dc.getWidth() - dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
+		        dc.getHeight() / 2,                     // gets the height of the device and divides by 2
+		        Graphics.FONT_SMALL,                    // sets the font size
+		        "Calories",                          // the String to display
 		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
 		                );
 		        
 		        
 		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() / 4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() - dc.getHeight() / 4,                     // gets the height of the device and divides by 2
+		        dc.getWidth() - dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
+		        dc.getHeight() *5/8,                     // gets the height of the device and divides by 2
 		        Graphics.FONT_SMALL,                    // sets the font size
 		        caloriesBurned,                          // the String to display
 		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
 		                );
+		                
+//		               // dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+//		        dc.drawText(
+//		        dc.getWidth() /2 ,                      // gets the width of the device and divides by 2
+//		        dc.getHeight() - dc.getHeight() / 4,                     // gets the height of the device and divides by 2
+//		        Graphics.FONT_SMALL,                    // sets the font size
+//		        "Calories",                          // the String to display
+//		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+//		                );
+//		        
+//		        
+//		        dc.drawText(
+//		        dc.getWidth() /2,                      // gets the width of the device and divides by 2
+//		        dc.getHeight() * 7/8,                     // gets the height of the device and divides by 2
+//		        Graphics.FONT_SMALL,                    // sets the font size
+//		        caloriesBurned,                          // the String to display
+//		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+//		                );
 		            
             }
        	}
