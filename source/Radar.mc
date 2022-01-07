@@ -122,54 +122,7 @@ class Radar extends WatchUi.View {
 	}
 		
 
-//		dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-//		for(var i = 0; i < 8; i++){
-//			if(counter % 3){
-//				dc.drawText(
-//	       		dc.getWidth() / drawValues[i],                      // gets the width of the device and divides by 2
-//	       		dc.getHeight() / drawValues[i],                     // gets the height of the device and divides by 2
-//	       		Graphics.FONT_SMALL,                    // sets the font size
-//	       		radarArray[i],                          // the String to display
-//	       		Graphics.TEXT_JUSTIFY_LEFT	            // sets the justification for the text
-//	         );
-//	         }else{
-//	         	dc.drawText(
-//	       		dc.getWidth() / drawValues[i],                      // gets the width of the device and divides by 2
-//	       		dc.getHeight() / drawValues[counter],                     // gets the height of the device and divides by 2
-//	       		Graphics.FONT_SMALL,                    // sets the font size
-//	       		radarArray[i],                          // the String to display
-//	       		Graphics.TEXT_JUSTIFY_LEFT	            // sets the justification for the text
-//	         	);
-//	         }
-//			 counter++;
-//
-//		}
-//       	dc.drawText(
-//       		dc.getWidth() / drawValues[2],                      // gets the width of the device and divides by 2
-//       		dc.getHeight() / drawValues[2],                     // gets the height of the device and divides by 2
-//       		Graphics.FONT_SMALL,                    // sets the font size
-//       		radarArray[7],                          // the String to display
-//       		Graphics.TEXT_JUSTIFY_LEFT	            // sets the justification for the text
-//         );
-//         
-//         dc.drawText(
-//       		dc.getWidth() / drawValues[2],                      // gets the width of the device and divides by 2
-//       		dc.getHeight() / drawValues[3],                     // gets the height of the device and divides by 2
-//       		Graphics.FONT_SMALL,                    // sets the font size
-//       		radarSpeed[7],                          // the String to display
-//       		Graphics.TEXT_JUSTIFY_LEFT	            // sets the justification for the text
-//         );
-//		 dc.drawText(
-//       		dc.getWidth() / drawValues[2],                      // gets the width of the device and divides by 2
-//       		dc.getHeight() / drawValues[4],                     // gets the height of the device and divides by 2
-//       		Graphics.FONT_SMALL,                    // sets the font size
-//       		radarTarget[7],                          // the String to display
-//       		Graphics.TEXT_JUSTIFY_LEFT	            // sets the justification for the text
-//         );
-
-    
-
-
+   
     // Called when this View is removed from the screen. Save the
     // state of this View here. This includes freeing resources from
     // memory.

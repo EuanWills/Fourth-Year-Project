@@ -1,7 +1,7 @@
 <strings>
     <string id="AppName">RadarActivityApp</string>
-
-    <string id="prompt">Click the menu button</string>
+	<string id="prompt">Please press/hold \n the menu button</string>
+    <string id="title">Welcome to the Radar \n Activity App</string>
 
     <string id="menu_label_1">Activity Screen</string>
     <string id="menu_label_2">Radar Screen</string>

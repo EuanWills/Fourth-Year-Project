@@ -42,9 +42,9 @@ class RadarActivity extends WatchUi.View {
 	var heartRate = 0;
 	var distance = 0;
 	var time = 0;
-	var _session as Session?;
+	var _session as Session?;// set up session variable
 	var minutes = 0;
-	var hours = 0;                                        // set up session variable
+	var hours = 0;                                        
 	var clockTime = "";
 	var speedMPH;
 	var distanceKm;
@@ -59,7 +59,6 @@ class RadarActivity extends WatchUi.View {
                 startRecording();
             }
         }
-    	
     	//for(i = 0; i<100; i++){
     	//	View.onUpdate();
     	//}
@@ -137,6 +136,48 @@ class RadarActivity extends WatchUi.View {
     	return distance / 1000;
     
     }
+    
+    function drawValues(position, dc as Dc, text, value){ 
+    
+    
+    	var width;
+    	var firstHeight;
+    	var secondHeight;
+    	if(position == 0){//top left
+    		width = dc.getWidth() *1/4;
+    		firstHeight = dc.getHeight() *1/8;
+    		secondHeight = dc.getHeight() *1/4;
+    	}else if(position == 1){ //top right
+    		width = dc.getWidth() *3/4;
+    		firstHeight = dc.getHeight() *1/8;
+    		secondHeight = dc.getHeight() *1/4;
+    	}else if(position == 2){ //bottom left
+    		width = dc.getWidth() *1/4;
+    		firstHeight = dc.getHeight() /2;
+    		secondHeight = dc.getHeight() *5/8;
+    	}else{ //bottom right
+    		width = dc.getWidth() *3/4;
+    	   	firstHeight = dc.getHeight() /2;
+    		secondHeight = dc.getHeight() *5/8;
+    	}
+    
+    	dc.drawText(
+		    width,                      // gets the width of the device and divides by 2
+		    firstHeight,                     // gets the height of the device and divides by 2
+		    Graphics.FONT_SMALL,                    // sets the font size
+		    text,                          // the String to display#
+		    Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		            );
+		dc.drawText(
+		    width,                      // gets the width of the device and divides by 2
+		    secondHeight,                     // gets the height of the device and divides by 2
+		    Graphics.FONT_SMALL,                    // sets the font size
+		    value,                          // the String to display
+		    Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		            );
+    }
+    
+    
     function onUpdate(dc as Dc) as Void {
     	dc.clear();
     	dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
@@ -175,88 +216,11 @@ class RadarActivity extends WatchUi.View {
 		        	distanceKm = metersToKm(distance);
 		      	}  
 		        
-		        
-		        dc.drawText(
-		        dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 8,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        "Speed",                          // the String to display#
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		        dc.drawText(
-		        dc.getWidth() *1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 4,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        speedMPH,                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		                
-		        		       // dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() *1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 8,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        "Distance",                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 4,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        distanceKm,                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		                
-		        		        dc.drawText(
-		        dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 2,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        "Elapsed Time",                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		        dc.drawText(
-		        dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() *5/8,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        timeString,                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		
-		        //dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() / 2,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        "Calories",                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		        
-		        
-		        dc.drawText(
-		        dc.getWidth() - dc.getWidth() * 1/4,                      // gets the width of the device and divides by 2
-		        dc.getHeight() *5/8,                     // gets the height of the device and divides by 2
-		        Graphics.FONT_SMALL,                    // sets the font size
-		        caloriesBurned,                          // the String to display
-		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-		                );
-		                
-//		               // dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-//		        dc.drawText(
-//		        dc.getWidth() /2 ,                      // gets the width of the device and divides by 2
-//		        dc.getHeight() - dc.getHeight() / 4,                     // gets the height of the device and divides by 2
-//		        Graphics.FONT_SMALL,                    // sets the font size
-//		        "Calories",                          // the String to display
-//		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-//		                );
-//		        
-//		        
-//		        dc.drawText(
-//		        dc.getWidth() /2,                      // gets the width of the device and divides by 2
-//		        dc.getHeight() * 7/8,                     // gets the height of the device and divides by 2
-//		        Graphics.FONT_SMALL,                    // sets the font size
-//		        caloriesBurned,                          // the String to display
-//		        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-//		                );
+		        drawValues(0, dc, "Distance (km)", distanceKm);
+		        drawValues(1, dc, "Speed (mph)", speedMPH);
+		        drawValues(2, dc, "Elapsed Time", timeString);
+		        drawValues(3, dc, "Calories Burned", caloriesBurned);
+
 		            
             }
        	}
