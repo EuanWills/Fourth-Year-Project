@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\PC-User\eclipse-workspace\PowerMeterBLE\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="3" lineNum="9" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="3" lineNum="10" pc="268435491" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="4" lineNum="14" pc="268435502" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="4" lineNum="15" pc="268435506" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="5" lineNum="21" pc="268435544" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="6" lineNum="25" pc="268435549" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="6" lineNum="27" pc="268435553" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="7" lineNum="33" pc="268435574" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEView.mc" id="7" lineNum="4" pc="268437529" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="9" lineNum="22" pc="268435579" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="9" lineNum="23" pc="268435583" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="10" lineNum="28" pc="268435602" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="10" lineNum="29" pc="268435606" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="10" lineNum="30" pc="268435640" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="10" lineNum="31" pc="268435682" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="10" lineNum="33" pc="268435732" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="10" lineNum="34" pc="268435756" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="10" lineNum="35" pc="268435774" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="11" lineNum="40" pc="268435793" symbol="onStop"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="11" lineNum="41" pc="268435797" symbol="onStop"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="11" lineNum="42" pc="268435806" symbol="onStop"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="11" lineNum="43" pc="268435815" symbol="onStop"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="12" lineNum="48" pc="268435825" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="12" lineNum="49" pc="268435829" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="12" lineNum="50" pc="268435839" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="12" lineNum="51" pc="268435846" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="12" lineNum="53" pc="268435892" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEApp.mc" id="12" lineNum="15" pc="268437889" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="14" lineNum="19" pc="268435895" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="14" lineNum="20" pc="268435899" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="14" lineNum="21" pc="268435917" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="15" lineNum="26" pc="268435928" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="15" lineNum="27" pc="268435932" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="15" lineNum="28" pc="268435955" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="15" lineNum="29" pc="268435975" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="15" lineNum="30" pc="268435989" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="15" lineNum="31" pc="268436021" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="15" lineNum="32" pc="268436060" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="16" lineNum="41" pc="268436097" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="16" lineNum="42" pc="268436101" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="16" lineNum="43" pc="268436111" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="16" lineNum="44" pc="268436118" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="16" lineNum="45" pc="268436132" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="17" lineNum="53" pc="268436162" symbol="onCharacteristicWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="17" lineNum="54" pc="268436166" symbol="onCharacteristicWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="17" lineNum="55" pc="268436176" symbol="onCharacteristicWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="17" lineNum="56" pc="268436183" symbol="onCharacteristicWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="17" lineNum="57" pc="268436197" symbol="onCharacteristicWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="18" lineNum="64" pc="268436229" symbol="notifyScanResult"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="18" lineNum="65" pc="268436233" symbol="notifyScanResult"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="19" lineNum="70" pc="268436253" symbol="notifyConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="19" lineNum="71" pc="268436257" symbol="notifyConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="20" lineNum="76" pc="268436277" symbol="notifyCharWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="20" lineNum="77" pc="268436281" symbol="notifyCharWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\PowerMeterBLEDelegate.mc" id="22" lineNum="10" pc="268437461" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="57" pc="268436432" symbol="registerProfiles"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="58" pc="268436436" symbol="registerProfiles"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="18" pc="268437549" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="21" pc="268437590" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="22" pc="268437631" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="23" pc="268437672" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="24" pc="268437713" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\ProfileManager.mc" id="24" lineNum="45" pc="268437754" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="26" lineNum="25" pc="268436464" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="26" lineNum="26" pc="268436468" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="26" lineNum="28" pc="268436477" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="26" lineNum="29" pc="268436491" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="26" lineNum="30" pc="268436505" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="26" lineNum="32" pc="268436519" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="27" lineNum="36" pc="268436530" symbol="start"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="27" lineNum="37" pc="268436534" symbol="start"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="28" lineNum="42" pc="268436563" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="28" lineNum="44" pc="268436567" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="28" lineNum="45" pc="268436587" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="28" lineNum="46" pc="268436615" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="29" lineNum="52" pc="268436637" symbol="procConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="29" lineNum="53" pc="268436641" symbol="procConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="29" lineNum="54" pc="268436662" symbol="procConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="29" lineNum="55" pc="268436676" symbol="procConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="29" lineNum="56" pc="268436686" symbol="procConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="29" lineNum="58" pc="268436701" symbol="procConnection"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="31" lineNum="87" pc="268436921" symbol="procCharWrite"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\PowerMeterBLE\\source\\DeviceManager.mc" id="31" lineNum="88" pc="268436925" symbol="procCharWrite"/>
+        <entry filename="Rez" id="37" lineNum="18" pc="268436968" symbol="MainLayout"/>
+        <entry filename="Rez" id="37" lineNum="20" pc="268436980" symbol="MainLayout"/>
+        <entry filename="Rez" id="37" lineNum="22" pc="268436993" symbol="MainLayout"/>
+        <entry filename="Rez" id="37" lineNum="23" pc="268437148" symbol="MainLayout"/>
+        <entry filename="Rez" id="37" lineNum="24" pc="268437260" symbol="MainLayout"/>
+        <entry filename="Rez" id="37" lineNum="26" pc="268437297" symbol="MainLayout"/>
+        <entry filename="Rez" id="40" lineNum="40" pc="268437325" symbol="initialize"/>
+        <entry filename="Rez" id="40" lineNum="41" pc="268437329" symbol="initialize"/>
+        <entry filename="Rez" id="40" lineNum="42" pc="268437347" symbol="initialize"/>
+        <entry filename="Rez" id="40" lineNum="43" pc="268437403" symbol="initialize"/>
+        <entry filename="Rez" id="40" lineNum="38" pc="268437506" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="41" lineNum="1" pc="268437480" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="20" method="true" symbol="notifyCharWrite"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="16" symbol="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;_onConnection&gt;"/>
+        <entry id="10" object="true" symbol="PowerMeterBLEApp"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="34" symbol="&lt;globals/DeviceManager/&lt;&gt;_profileManager&gt;"/>
+        <entry field="true" id="17" symbol="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;_onCharWrite&gt;"/>
+        <entry id="28" method="true" symbol="MainLayout"/>
+        <entry id="42" method="true" symbol="procCharWrite"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="37" symbol="&lt;globals/DeviceManager/&lt;&gt;_cycleService&gt;"/>
+        <entry id="8391256" method="true" symbol="onScanResults"/>
+        <entry field="true" id="46" symbol="CYCLING_POWER_FEATURE_CHARACTERISTIC"/>
+        <entry id="40" method="true" symbol="procConnection"/>
+        <entry field="true" id="32" symbol="AppName"/>
+        <entry id="21" method="true" symbol="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry field="true" id="36" symbol="&lt;globals/DeviceManager/&lt;&gt;_feature&gt;"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="45" symbol="CYCLING_POWER_MEASURMENT_CHARACTERISTIC"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="31" symbol="prompt"/>
+        <entry field="true" id="25" symbol="id_monkey"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="44" symbol="CYCLING_POWER_SERVICE"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="33" symbol="&lt;globals/PowerMeterBLEView/&lt;&gt;_deviceManager&gt;"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8391258" method="true" symbol="onConnectedStateChanged"/>
+        <entry id="12" object="true" symbol="ProfileManager"/>
+        <entry id="54" symbol="item_2"/>
+        <entry id="53" symbol="item_1"/>
+        <entry id="24" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="51" symbol="&lt;globals/PowerMeterBLEApp/&lt;&gt;_bleDelegate&gt;"/>
+        <entry id="11" object="true" symbol="PowerMeterBLEDelegate"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="50" symbol="&lt;globals/PowerMeterBLEApp/&lt;&gt;_profileManager&gt;"/>
+        <entry id="22" method="true" symbol="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;contains&gt;"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="52" symbol="&lt;globals/PowerMeterBLEApp/&lt;&gt;_deviceManager&gt;"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="41" method="true" symbol="&lt;globals/DeviceManager/&lt;&gt;startRead&gt;"/>
+        <entry id="27" object="true" symbol="MainMenu"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="49" method="true" symbol="registerProfiles"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="43" symbol="POWER_METER_SERVICE"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="26" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="18" method="true" symbol="notifyScanResult"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8391334" symbol="uuid"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="35" symbol="&lt;globals/DeviceManager/&lt;&gt;_device&gt;"/>
+        <entry id="8391193" module="true" symbol="BluetoothLowEnergy"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="48" symbol="&lt;globals/ProfileManager/&lt;&gt;_cyclingPowerDef&gt;"/>
+        <entry id="9" object="true" symbol="PowerMeterBLEView"/>
+        <entry id="13" object="true" symbol="DeviceManager"/>
+        <entry field="true" id="14" symbol="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;_profileManager&gt;"/>
+        <entry field="true" id="47" symbol="CYCLING_POWER_CP_CHARACTERISTIC"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="38" symbol="&lt;globals/DeviceManager/&lt;&gt;_powerMeterData&gt;"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8391341" symbol="characteristics"/>
+        <entry id="23" module="true" symbol="Layouts"/>
+        <entry id="8388698" method="true" symbol="start"/>
+        <entry field="true" id="15" symbol="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;_onScanResult&gt;"/>
+        <entry id="8391260" method="true" symbol="onCharacteristicWrite"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="19" method="true" symbol="notifyConnection"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="39" method="true" symbol="procScanResult"/>
+        <entry field="true" id="30" symbol="menu_label_2"/>
+        <entry field="true" id="29" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435501" name="deviceManager" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435543" name="dc" stackId="1" startPc="268435502"/>
+        <entry arg="true" endPc="268435573" name="dc" stackId="1" startPc="268435549"/>
+        <entry arg="true" endPc="268435792" name="state" stackId="1" startPc="268435602"/>
+        <entry arg="true" endPc="268435824" name="state" stackId="1" startPc="268435793"/>
+        <entry endPc="268435893" name="deviceManager" stackId="1" startPc="268435829"/>
+        <entry arg="true" endPc="268435927" name="profileManager" stackId="1" startPc="268435895"/>
+        <entry endPc="268436095" name="result" stackId="2" startPc="268435975"/>
+        <entry arg="true" endPc="268436096" name="scanResults" stackId="1" startPc="268435928"/>
+        <entry endPc="268436160" name="onConnection" stackId="3" startPc="268436101"/>
+        <entry arg="true" endPc="268436161" name="device" stackId="1" startPc="268436097"/>
+        <entry arg="true" endPc="268436161" name="state" stackId="2" startPc="268436097"/>
+        <entry endPc="268436227" name="onCharWrite" stackId="3" startPc="268436166"/>
+        <entry arg="true" endPc="268436228" name="status" stackId="2" startPc="268436162"/>
+        <entry arg="true" endPc="268436228" name="characteristic" stackId="1" startPc="268436162"/>
+        <entry arg="true" endPc="268436252" name="manager" stackId="1" startPc="268436229"/>
+        <entry arg="true" endPc="268436276" name="manager" stackId="1" startPc="268436253"/>
+        <entry arg="true" endPc="268436300" name="manager" stackId="1" startPc="268436277"/>
+        <entry endPc="268436364" name="onScanResult" stackId="2" startPc="268436305"/>
+        <entry arg="true" endPc="268436365" name="scanResult" stackId="1" startPc="268436301"/>
+        <entry endPc="268436427" name="uuid" stackId="3" startPc="268436390"/>
+        <entry arg="true" endPc="268436431" name="iter" stackId="1" startPc="268436366"/>
+        <entry arg="true" endPc="268436431" name="obj" stackId="2" startPc="268436366"/>
+        <entry arg="true" endPc="268436529" name="profileManager" stackId="2" startPc="268436464"/>
+        <entry arg="true" endPc="268436529" name="bleDelegate" stackId="1" startPc="268436464"/>
+        <entry arg="true" endPc="268436636" name="scanResult" stackId="1" startPc="268436563"/>
+        <entry arg="true" endPc="268436710" name="device" stackId="1" startPc="268436637"/>
+        <entry endPc="268436916" name="cycleService" stackId="2" startPc="268436753"/>
+        <entry endPc="268436919" name="device" stackId="1" startPc="268436715"/>
+        <entry arg="true" endPc="268436967" name="status" stackId="2" startPc="268436921"/>
+        <entry arg="true" endPc="268436967" name="char" stackId="1" startPc="268436921"/>
+        <entry endPc="268437323" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268436980"/>
+        <entry endPc="268437323" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436980"/>
+        <entry endPc="268437323" name="rez_cmp_local_text_1696855644" stackId="3" startPc="268436980"/>
+        <entry arg="true" endPc="268437324" name="dc" stackId="1" startPc="268436968"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/PowerMeterBLEDelegate" offset="174" parentId="globals" symbolId="PowerMeterBLEDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="317" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="396" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="443" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="482" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry label="globals/Rez/Fonts" offset="529" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="560" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="599" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="630" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/PowerMeterBLEView" offset="693" parentId="globals" symbolId="PowerMeterBLEView" type="class"/>
+        <dataEntry label="globals/DeviceManager" offset="780" parentId="globals" symbolId="DeviceManager" type="class"/>
+        <dataEntry label="globals/ProfileManager" offset="907" parentId="globals" symbolId="ProfileManager" type="class"/>
+        <dataEntry label="globals/PowerMeterBLEApp" offset="1010" parentId="globals" symbolId="PowerMeterBLEApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="PowerMeterBLEView">
+            <param id="deviceManager"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="PowerMeterBLEView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="PowerMeterBLEView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PowerMeterBLEView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="PowerMeterBLEView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PowerMeterBLEApp">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="PowerMeterBLEApp">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="PowerMeterBLEApp">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="PowerMeterBLEApp">
+            <documentation><![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array [View]</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PowerMeterBLEDelegate">
+            <param id="profileManager"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> profileManager The profile manager</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onScanResults" parent="PowerMeterBLEDelegate">
+            <param id="scanResults"/>
+            <documentation><![CDATA[<div class="description"> Handle new Scan Results being received<br/> <div class="param"> scanResults An iterator of new scan result objects</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onConnectedStateChanged" parent="PowerMeterBLEDelegate">
+            <param id="device"/>
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle pairing and connecting to a device<br/> <div class="param"> device The device state that was changed</div><br/> <div class="param"> state The state of the connection</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCharacteristicWrite" parent="PowerMeterBLEDelegate">
+            <param id="characteristic"/>
+            <param id="status"/>
+            <documentation><![CDATA[<div class="description"> Handle the completion of a write operation on a characteristic<br/> <div class="param"> characteristic The characteristic that was written</div><br/> <div class="param"> status The BluetoothLowEnergy status indicating the result of the operation</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="notifyScanResult" parent="PowerMeterBLEDelegate">
+            <param id="manager"/>
+            <documentation><![CDATA[<div class="description"> Store a new manager to manage scan results<br/> <div class="param"> manager The manager of the scan results</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="notifyConnection" parent="PowerMeterBLEDelegate">
+            <param id="manager"/>
+            <documentation><![CDATA[<div class="description"> Store a new manager to manage device connections<br/> <div class="param"> manager The manager for devices</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="notifyCharWrite" parent="PowerMeterBLEDelegate">
+            <param id="manager"/>
+            <documentation><![CDATA[<div class="description"> Store a new manager to handle characteristic writes<br/> <div class="param"> manager The manager for characteristics</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;broadcastScanResult&gt;" parent="PowerMeterBLEDelegate">
+            <param id="scanResult"/>
+            <documentation><![CDATA[<div class="description"> Broadcast a new scan result<br/> <div class="param"> scanResult The new scan result</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/PowerMeterBLEDelegate/&lt;&gt;contains&gt;" parent="PowerMeterBLEDelegate">
+            <param id="iter"/>
+            <param id="obj"/>
+            <documentation><![CDATA[<div class="description"> Get whether the iterator contains a specific uuid<br/> <div class="param"> iter Iterator of uuid objects</div><br/> <div class="param"> obj Uuid to search for</div><br/> <div class="returns">Returns  true if object found, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="registerProfiles" parent="ProfileManager">
+            <documentation><![CDATA[<div class="description"> Register the bluetooth profile<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DeviceManager">
+            <param id="bleDelegate"/>
+            <param id="profileManager"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> bleDelegate The BLE delegate</div><br/> <div class="param"> profileManager The profile manager</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="start" parent="DeviceManager">
+            <documentation><![CDATA[<div class="description"> Start BLE scanning<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="procScanResult" parent="DeviceManager">
+            <param id="scanResult"/>
+            <documentation><![CDATA[<div class="description"> Process scan result<br/> <div class="param"> scanResult The scan result</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="procConnection" parent="DeviceManager">
+            <param id="device"/>
+            <documentation><![CDATA[<div class="description"> Process a new device connection<br/> <div class="param"> device The device that was connected</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/DeviceManager/&lt;&gt;startRead&gt;" parent="DeviceManager">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="procCharWrite" parent="DeviceManager">
+            <param id="char"/>
+            <param id="status"/>
+            <documentation><![CDATA[<div class="description"> Handle the completion of a write operation on a characteristic<br/> <div class="param"> char The characteristic that was written</div><br/> <div class="param"> status The result of the operation</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
