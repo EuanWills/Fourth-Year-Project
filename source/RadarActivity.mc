@@ -18,6 +18,7 @@ class BaseInputDelegate extends WatchUi.BehaviorDelegate {
     public function initialize(view as RadarActivity) {
         BehaviorDelegate.initialize();
         _view = view;
+        
 
     }
 
@@ -49,6 +50,8 @@ class RadarActivity extends WatchUi.View {
 	var speedMPH;
 	var distanceKm;
 	var hr;
+	var timer = new Timer.Timer();
+	
     function initialize() {
     	var i;
     	Sensor.setEnabledSensors([Sensor.SENSOR_HEARTRATE,Sensor.SENSOR_BIKESPEED]);
@@ -105,18 +108,19 @@ class RadarActivity extends WatchUi.View {
 	
     
     function onShow(){
-    	var timer = new Timer.Timer();
+    	timer = new Timer.Timer();
     	timer.start( method(:onTimer), 1000, true ); 
     	
     }
     
-//    function onHide(){
-//        if (Toybox has :ActivityRecording) {
-//            if (isSessionRecording()) {
-//                stopRecording();
-//            }
-//        }
-//    }
+    function onHide(){
+        if (Toybox has :ActivityRecording) {
+            if (isSessionRecording()) {
+                stopRecording();
+            }
+        }
+        timer.stop();
+    }
 
     function HMSConverter(totalSeconds){ //got this fropm forums #
     	totalSeconds = totalSeconds /1000;
@@ -179,6 +183,8 @@ class RadarActivity extends WatchUi.View {
     
     
     function onUpdate(dc as Dc) as Void {
+    	System.println(dc.getHeight());
+    	System.println(dc.getWidth());
     	dc.clear();
     	dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
     	dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());

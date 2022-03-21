@@ -31,6 +31,8 @@ class Radar extends WatchUi.View {
 	var radarThreatSide = new [8];//~ threat position
 	var d = 0;
 	var playToneCounter = 0;
+	var timer = new Timer.Timer();
+	
 //	var myBmp;
 	
     function initialize() {
@@ -50,7 +52,7 @@ class Radar extends WatchUi.View {
     
     	dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT); //sets white background
     	dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight()); 
-    	var timer = new Timer.Timer();
+    	
     	timer.start( method(:onTimer), 50, true );     //makes page refresh every 50 milliseconds
     }
 
@@ -127,6 +129,7 @@ class Radar extends WatchUi.View {
     // state of this View here. This includes freeing resources from
     // memory.
     function onHide() as Void {
+    	timer.stop();
     }
 
 }

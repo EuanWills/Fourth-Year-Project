@@ -3,7 +3,7 @@ import Toybox.Lang;
 import Toybox.WatchUi;
 import Toybox.Position;
 class RadarActivityAppApp extends Application.AppBase {
-
+	
     function initialize() {
         AppBase.initialize();
     }

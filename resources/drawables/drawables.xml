@@ -1,5 +1,5 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
     <bitmap id="Logo" filename="logo.jpg" />
-
+    <bitmap id="FrontPage" filename="resized-image-Promo.jpeg" />
 </drawables>

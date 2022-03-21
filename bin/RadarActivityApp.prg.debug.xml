@@ -2,300 +2,559 @@
 <debugInfo>
     <manifest filename="C:\Users\PC-User\eclipse-workspace\RadarActivityApp\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="3" lineNum="18" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="3" lineNum="20" pc="268435478" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="4" lineNum="26" pc="268435489" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="4" lineNum="27" pc="268435493" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="4" lineNum="28" pc="268435510" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="4" lineNum="29" pc="268435531" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="4" lineNum="31" pc="268435552" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="4" lineNum="34" pc="268435573" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="4" lineNum="12" pc="268440547" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="6" lineNum="52" pc="268435577" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="6" lineNum="53" pc="268435581" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="6" lineNum="54" pc="268435581" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="6" lineNum="56" pc="268435643" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="6" lineNum="57" pc="268435661" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="6" lineNum="58" pc="268435678" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="6" lineNum="59" pc="268435693" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="7" lineNum="78" pc="268435712" symbol="stopRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="7" lineNum="79" pc="268435716" symbol="stopRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="7" lineNum="80" pc="268435750" symbol="stopRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="7" lineNum="81" pc="268435768" symbol="stopRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="7" lineNum="82" pc="268435786" symbol="stopRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="7" lineNum="83" pc="268435795" symbol="stopRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="8" lineNum="87" pc="268435815" symbol="isSessionRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="8" lineNum="88" pc="268435819" symbol="isSessionRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="9" lineNum="91" pc="268435854" symbol="startRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="9" lineNum="92" pc="268435858" symbol="startRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="9" lineNum="97" pc="268435940" symbol="startRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="9" lineNum="98" pc="268435958" symbol="startRecording"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="10" lineNum="102" pc="268435975" symbol="onTimer"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="10" lineNum="103" pc="268435979" symbol="onTimer"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="11" lineNum="107" pc="268435996" symbol="onShow"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="11" lineNum="108" pc="268436000" symbol="onShow"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="11" lineNum="109" pc="268436028" symbol="onShow"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="12" lineNum="121" pc="268436064" symbol="HMSConverter"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="12" lineNum="122" pc="268436068" symbol="HMSConverter"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="12" lineNum="123" pc="268436078" symbol="HMSConverter"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="12" lineNum="124" pc="268436097" symbol="HMSConverter"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="12" lineNum="125" pc="268436125" symbol="HMSConverter"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="12" lineNum="126" pc="268436147" symbol="HMSConverter"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="12" lineNum="127" pc="268436205" symbol="HMSConverter"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="13" lineNum="131" pc="268436209" symbol="MPStoMPH"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="13" lineNum="132" pc="268436213" symbol="MPStoMPH"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="14" lineNum="135" pc="268436223" symbol="metersToKm"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="14" lineNum="136" pc="268436227" symbol="metersToKm"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="140" pc="268436237" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="143" pc="268436241" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="144" pc="268436241" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="145" pc="268436241" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="146" pc="268436241" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="147" pc="268436252" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="148" pc="268436277" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="149" pc="268436302" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="150" pc="268436330" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="151" pc="268436341" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="152" pc="268436366" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="153" pc="268436391" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="154" pc="268436419" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="155" pc="268436430" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="156" pc="268436455" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="157" pc="268436474" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="159" pc="268436502" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="160" pc="268436527" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="161" pc="268436546" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="164" pc="268436571" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="15" lineNum="171" pc="268436613" symbol="drawValues"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="181" pc="268436656" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="182" pc="268436660" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="183" pc="268436672" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="184" pc="268436708" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="185" pc="268436752" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="187" pc="268436769" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="188" pc="268436784" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="189" pc="268436820" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="192" pc="268436911" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="194" pc="268436928" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="195" pc="268436944" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="196" pc="268436960" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="197" pc="268436976" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="199" pc="268436992" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="201" pc="268437028" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="202" pc="268437102" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="203" pc="268437176" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="211" pc="268437250" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="212" pc="268437271" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="213" pc="268437284" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="215" pc="268437314" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="216" pc="268437347" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="219" pc="268437377" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="220" pc="268437409" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="221" pc="268437441" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="222" pc="268437467" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="16" lineNum="39" pc="268440422" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="18" lineNum="6" pc="268437503" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="18" lineNum="7" pc="268437507" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="19" lineNum="11" pc="268437526" symbol="onLayout"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="19" lineNum="12" pc="268437530" symbol="onLayout"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="20" lineNum="18" pc="268437568" symbol="onShow"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="21" lineNum="22" pc="268437573" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="21" lineNum="24" pc="268437577" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="22" lineNum="30" pc="268437598" symbol="onHide"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="22" lineNum="4" pc="268440509" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="24" lineNum="7" pc="268437603" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="24" lineNum="8" pc="268437607" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="25" lineNum="13" pc="268437626" symbol="onBack"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="25" lineNum="14" pc="268437630" symbol="onBack"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="25" lineNum="15" pc="268437658" symbol="onBack"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="25" lineNum="5" pc="268440566" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="27" lineNum="6" pc="268437662" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="27" lineNum="7" pc="268437666" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="28" lineNum="10" pc="268437685" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="28" lineNum="11" pc="268437689" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="28" lineNum="12" pc="268437773" symbol="onMenu"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="28" lineNum="4" pc="268440714" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="30" lineNum="7" pc="268437777" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="30" lineNum="8" pc="268437781" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="31" lineNum="13" pc="268437800" symbol="onBack"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="31" lineNum="14" pc="268437804" symbol="onBack"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="31" lineNum="15" pc="268437832" symbol="onBack"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="31" lineNum="5" pc="268440752" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="33" lineNum="7" pc="268437836" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="33" lineNum="8" pc="268437840" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="34" lineNum="12" pc="268437859" symbol="onStart"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="35" lineNum="17" pc="268437864" symbol="onStop"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="35" lineNum="18" pc="268437868" symbol="onStop"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="36" lineNum="22" pc="268437913" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="36" lineNum="23" pc="268437917" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="36" lineNum="24" pc="268437984" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="37" lineNum="27" pc="268438029" symbol="onPosition"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="37" lineNum="5" pc="268440441" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="38" lineNum="32" pc="268438034" symbol="getApp"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="38" lineNum="33" pc="268438046" symbol="getApp"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="40" lineNum="8" pc="268438063" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="40" lineNum="9" pc="268438067" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="41" lineNum="12" pc="268438086" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="41" lineNum="13" pc="268438090" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="41" lineNum="14" pc="268438101" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="41" lineNum="15" pc="268438122" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="41" lineNum="16" pc="268438205" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="41" lineNum="17" pc="268438216" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="41" lineNum="18" pc="268438237" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="42" lineNum="21" pc="268438321" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="42" lineNum="22" pc="268438325" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="42" lineNum="25" pc="268438337" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="42" lineNum="26" pc="268438373" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="42" lineNum="30" pc="268438417" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="42" lineNum="31" pc="268438453" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="42" lineNum="6" pc="268440695" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="44" lineNum="5" pc="268438517" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="44" lineNum="6" pc="268438521" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="45" lineNum="9" pc="268438540" symbol="onBikeRadarUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="45" lineNum="10" pc="268438544" symbol="onBikeRadarUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="45" lineNum="3" pc="268440528" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="14" pc="268438565" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="15" pc="268438569" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="16" pc="268438587" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="8" pc="268440733" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="36" pc="268438598" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="37" pc="268438602" symbol="initialize"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="42" pc="268438621" symbol="onTimer"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="43" pc="268438625" symbol="onTimer"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="51" lineNum="49" pc="268438642" symbol="onLayout"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="51" lineNum="51" pc="268438646" symbol="onLayout"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="51" lineNum="52" pc="268438682" symbol="onLayout"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="51" lineNum="53" pc="268438726" symbol="onLayout"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="51" lineNum="54" pc="268438754" symbol="onLayout"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="52" lineNum="60" pc="268438790" symbol="onShow"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="65" pc="268438795" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="66" pc="268438799" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="70" pc="268438811" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="71" pc="268438847" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="73" pc="268438891" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="75" pc="268438910" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="76" pc="268438915" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="77" pc="268438933" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="78" pc="268438955" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="79" pc="268438977" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="80" pc="268439008" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="84" pc="268439046" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="85" pc="268439082" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="87" pc="268439149" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="89" pc="268439212" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="90" pc="268439230" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="92" pc="268439250" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="93" pc="268439270" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="94" pc="268439306" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="95" pc="268439343" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="97" pc="268439365" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="99" pc="268439378" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="100" pc="268439413" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="101" pc="268439441" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="103" pc="268439466" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="104" pc="268439486" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="106" pc="268439525" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="108" pc="268439550" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="109" pc="268439570" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="110" pc="268439627" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="111" pc="268439647" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="53" lineNum="113" pc="268439704" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="54" lineNum="129" pc="268439775" symbol="onHide"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="54" lineNum="22" pc="268440585" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="54" lineNum="26" pc="268440603" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="54" lineNum="28" pc="268440638" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="54" lineNum="29" pc="268440652" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="54" lineNum="30" pc="268440666" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="54" lineNum="31" pc="268440680" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="60" lineNum="18" pc="268439780" symbol="MainLayout"/>
-        <entry filename="Rez" id="60" lineNum="20" pc="268439792" symbol="MainLayout"/>
-        <entry filename="Rez" id="60" lineNum="21" pc="268439944" symbol="MainLayout"/>
-        <entry filename="Rez" id="60" lineNum="22" pc="268440096" symbol="MainLayout"/>
-        <entry filename="Rez" id="60" lineNum="23" pc="268440208" symbol="MainLayout"/>
-        <entry filename="Rez" id="60" lineNum="25" pc="268440248" symbol="MainLayout"/>
-        <entry filename="Rez" id="63" lineNum="39" pc="268440286" symbol="initialize"/>
-        <entry filename="Rez" id="63" lineNum="40" pc="268440290" symbol="initialize"/>
-        <entry filename="Rez" id="63" lineNum="41" pc="268440308" symbol="initialize"/>
-        <entry filename="Rez" id="63" lineNum="42" pc="268440364" symbol="initialize"/>
-        <entry filename="Rez" id="63" lineNum="37" pc="268440486" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="64" lineNum="1" pc="268440460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="3" lineNum="16" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="3" lineNum="8" pc="268446407" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="5" lineNum="30" pc="268435489" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="5" lineNum="31" pc="268435493" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="5" lineNum="32" pc="268435521" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="5" lineNum="33" pc="268435556" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="6" lineNum="38" pc="268435575" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="6" lineNum="39" pc="268435579" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="7" lineNum="48" pc="268435596" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="8" lineNum="51" pc="268435601" symbol="selectButtonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="8" lineNum="52" pc="268435605" symbol="selectButtonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="8" lineNum="53" pc="268435624" symbol="selectButtonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="9" lineNum="56" pc="268435651" symbol="upKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="9" lineNum="57" pc="268435655" symbol="upKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="9" lineNum="58" pc="268435674" symbol="upKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="9" lineNum="59" pc="268435700" symbol="upKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="10" lineNum="62" pc="268435710" symbol="downKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="10" lineNum="63" pc="268435714" symbol="downKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="10" lineNum="64" pc="268435733" symbol="downKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="10" lineNum="65" pc="268435759" symbol="downKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="11" lineNum="68" pc="268435769" symbol="menuButtonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="11" lineNum="69" pc="268435773" symbol="menuButtonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="12" lineNum="72" pc="268435784" symbol="isFTPSet"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="12" lineNum="73" pc="268435788" symbol="isFTPSet"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="12" lineNum="74" pc="268435799" symbol="isFTPSet"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="12" lineNum="76" pc="268435805" symbol="isFTPSet"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="79" pc="268435809" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="80" pc="268435813" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="81" pc="268435845" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="83" pc="268435889" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="84" pc="268435925" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="86" pc="268435986" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="88" pc="268436058" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="89" pc="268436065" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="91" pc="268436072" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="92" pc="268436088" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="13" lineNum="93" pc="268436124" symbol="drawPowerIndicator"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="101" pc="268436195" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="102" pc="268436199" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="103" pc="268436211" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="104" pc="268436243" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="105" pc="268436287" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="106" pc="268436298" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="107" pc="268436320" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="108" pc="268436339" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="110" pc="268436349" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="111" pc="268436356" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="113" pc="268436366" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="114" pc="268436386" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="116" pc="268436406" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="117" pc="268436449" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="118" pc="268436492" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="119" pc="268436512" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="121" pc="268436564" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="122" pc="268436607" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="123" pc="268436627" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="126" pc="268436679" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="127" pc="268436722" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="128" pc="268436742" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="130" pc="268436794" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="131" pc="268436837" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="132" pc="268436857" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="135" pc="268436909" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="136" pc="268436952" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="137" pc="268436972" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="141" pc="268437024" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="142" pc="268437044" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="147" pc="268437093" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="148" pc="268437129" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="151" pc="268437204" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="152" pc="268437240" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="157" pc="268437324" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="158" pc="268437360" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="159" pc="268437441" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="14" lineNum="160" pc="268437528" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="15" lineNum="169" pc="268437628" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="15" lineNum="23" pc="268446750" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="15" lineNum="24" pc="268446768" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="15" lineNum="25" pc="268446788" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerMeterAntView.mc" id="15" lineNum="26" pc="268446818" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="17" lineNum="6" pc="268437633" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="17" lineNum="7" pc="268437637" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="18" lineNum="10" pc="268437656" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="18" lineNum="11" pc="268437660" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="18" lineNum="12" pc="268437744" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppDelegate.mc" id="18" lineNum="4" pc="268446312" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="20" lineNum="7" pc="268437748" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="20" lineNum="8" pc="268437752" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="21" lineNum="13" pc="268437771" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="21" lineNum="14" pc="268437775" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="21" lineNum="15" pc="268437803" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityDelegate.mc" id="21" lineNum="5" pc="268446445" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="23" lineNum="7" pc="268437807" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="23" lineNum="8" pc="268437811" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="24" lineNum="12" pc="268437830" symbol="onStart"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="25" lineNum="17" pc="268437835" symbol="onStop"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="25" lineNum="18" pc="268437839" symbol="onStop"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="26" lineNum="22" pc="268437884" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="26" lineNum="23" pc="268437888" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="26" lineNum="24" pc="268437955" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="27" lineNum="27" pc="268438000" symbol="onPosition"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="27" lineNum="5" pc="268446540" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="28" lineNum="32" pc="268438005" symbol="getApp"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppApp.mc" id="28" lineNum="33" pc="268438017" symbol="getApp"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="30" lineNum="14" pc="268438034" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="30" lineNum="15" pc="268438038" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="30" lineNum="16" pc="268438056" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="30" lineNum="8" pc="268446244" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="32" lineNum="36" pc="268438067" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="32" lineNum="37" pc="268438071" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="32" lineNum="38" pc="268438112" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="32" lineNum="39" pc="268438130" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="33" lineNum="43" pc="268438145" symbol="buttonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="33" lineNum="44" pc="268438149" symbol="buttonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="33" lineNum="45" pc="268438166" symbol="buttonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="33" lineNum="46" pc="268438181" symbol="buttonPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="34" lineNum="52" pc="268438200" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="34" lineNum="53" pc="268438204" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="34" lineNum="54" pc="268438238" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="34" lineNum="55" pc="268438256" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="34" lineNum="56" pc="268438274" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="34" lineNum="57" pc="268438283" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="35" lineNum="61" pc="268438303" symbol="isSessionRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="35" lineNum="62" pc="268438307" symbol="isSessionRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="36" lineNum="65" pc="268438342" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="36" lineNum="66" pc="268438346" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="36" lineNum="71" pc="268438434" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="36" lineNum="72" pc="268438452" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="37" lineNum="75" pc="268438469" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="37" lineNum="76" pc="268438473" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="37" lineNum="77" pc="268438490" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="37" lineNum="78" pc="268438504" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="37" lineNum="81" pc="268438522" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="38" lineNum="85" pc="268438541" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="38" lineNum="86" pc="268438545" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="39" lineNum="95" pc="268438562" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="39" lineNum="97" pc="268438566" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="39" lineNum="98" pc="268438600" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="101" pc="268438642" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="102" pc="268438646" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="103" pc="268438656" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="104" pc="268438675" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="105" pc="268438703" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="106" pc="268438703" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="107" pc="268438714" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="108" pc="268438724" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="109" pc="268438749" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="111" pc="268438759" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="113" pc="268438766" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="114" pc="268438788" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="40" lineNum="115" pc="268438846" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="121" pc="268438874" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="122" pc="268438878" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="123" pc="268438890" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="124" pc="268438922" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="126" pc="268438966" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="128" pc="268438983" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="129" pc="268438998" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="130" pc="268439034" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="132" pc="268439112" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="133" pc="268439129" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="134" pc="268439165" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="135" pc="268439181" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="136" pc="268439202" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="139" pc="268439224" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="140" pc="268439243" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="141" pc="268439253" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="142" pc="268439260" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="145" pc="268439270" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="147" pc="268439287" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="148" pc="268439362" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="149" pc="268439440" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="150" pc="268439514" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="151" pc="268439595" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="153" pc="268439670" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="154" pc="268439687" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="155" pc="268439762" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="156" pc="268439840" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="157" pc="268439914" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="158" pc="268439995" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="159" pc="268440067" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="160" pc="268440086" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="161" pc="268440105" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="162" pc="268440122" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="163" pc="268440197" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="164" pc="268440222" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="167" pc="268440306" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="168" pc="268440323" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="169" pc="268440359" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="170" pc="268440434" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="171" pc="268440451" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="176" pc="268440476" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="177" pc="268440551" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="24" pc="268446559" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="25" pc="268446577" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="26" pc="268446597" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="27" pc="268446627" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPCalculator.mc" id="41" lineNum="28" pc="268446662" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="43" lineNum="14" pc="268440633" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="43" lineNum="15" pc="268440637" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="43" lineNum="16" pc="268440655" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="43" lineNum="8" pc="268446350" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="45" lineNum="38" pc="268440666" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="45" lineNum="39" pc="268440670" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="46" lineNum="44" pc="268440689" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="46" lineNum="45" pc="268440693" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="51" pc="268440710" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="53" pc="268440714" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="54" pc="268440750" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="47" lineNum="56" pc="268440794" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="48" lineNum="62" pc="268440836" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="67" pc="268440841" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="68" pc="268440845" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="72" pc="268440857" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="73" pc="268440893" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="75" pc="268440937" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="77" pc="268440956" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="78" pc="268440961" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="79" pc="268440979" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="80" pc="268441001" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="81" pc="268441023" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="82" pc="268441054" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="86" pc="268441092" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="87" pc="268441128" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="89" pc="268441195" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="91" pc="268441258" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="92" pc="268441276" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="94" pc="268441296" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="95" pc="268441316" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="96" pc="268441352" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="97" pc="268441389" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="99" pc="268441411" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="101" pc="268441424" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="102" pc="268441459" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="103" pc="268441487" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="105" pc="268441512" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="106" pc="268441532" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="108" pc="268441571" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="110" pc="268441596" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="111" pc="268441616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="112" pc="268441673" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="113" pc="268441693" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="49" lineNum="115" pc="268441750" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="131" pc="268441821" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="132" pc="268441825" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="22" pc="268446854" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="26" pc="268446872" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="28" pc="268446907" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="29" pc="268446921" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="30" pc="268446935" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="31" pc="268446949" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\Radar.mc" id="50" lineNum="34" pc="268446963" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="52" lineNum="9" pc="268441844" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="52" lineNum="10" pc="268441848" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="52" lineNum="11" pc="268441858" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="53" lineNum="16" pc="268441877" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="53" lineNum="17" pc="268441881" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="53" lineNum="18" pc="268441909" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="54" lineNum="24" pc="268441913" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="54" lineNum="26" pc="268441917" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="55" lineNum="32" pc="268441921" symbol="onKeyPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="55" lineNum="33" pc="268441925" symbol="onKeyPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="55" lineNum="34" pc="268441943" symbol="onKeyPressed"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="56" lineNum="40" pc="268441947" symbol="onKeyReleased"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="56" lineNum="41" pc="268441951" symbol="onKeyReleased"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\FTPDelegate.mc" id="56" lineNum="6" pc="268446426" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="58" lineNum="18" pc="268441955" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="58" lineNum="19" pc="268441959" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="58" lineNum="20" pc="268441977" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="59" lineNum="27" pc="268441988" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="59" lineNum="28" pc="268441992" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="59" lineNum="29" pc="268442009" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="59" lineNum="30" pc="268442030" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="59" lineNum="32" pc="268442051" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="59" lineNum="35" pc="268442072" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="59" lineNum="12" pc="268446502" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="61" lineNum="55" pc="268442076" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="61" lineNum="56" pc="268442080" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="61" lineNum="57" pc="268442080" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="61" lineNum="59" pc="268442142" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="61" lineNum="60" pc="268442160" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="61" lineNum="61" pc="268442177" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="61" lineNum="62" pc="268442192" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="62" lineNum="81" pc="268442211" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="62" lineNum="82" pc="268442215" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="62" lineNum="83" pc="268442249" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="62" lineNum="84" pc="268442267" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="62" lineNum="85" pc="268442285" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="62" lineNum="86" pc="268442294" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="63" lineNum="90" pc="268442314" symbol="isSessionRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="63" lineNum="91" pc="268442318" symbol="isSessionRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="64" lineNum="94" pc="268442353" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="64" lineNum="95" pc="268442357" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="64" lineNum="100" pc="268442439" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="64" lineNum="101" pc="268442457" symbol="startRecording"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="65" lineNum="105" pc="268442474" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="65" lineNum="106" pc="268442478" symbol="onTimer"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="66" lineNum="110" pc="268442495" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="66" lineNum="111" pc="268442499" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="66" lineNum="112" pc="268442533" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="67" lineNum="116" pc="268442575" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="67" lineNum="117" pc="268442579" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="67" lineNum="118" pc="268442596" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="67" lineNum="119" pc="268442610" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="67" lineNum="122" pc="268442628" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="68" lineNum="125" pc="268442647" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="68" lineNum="126" pc="268442651" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="68" lineNum="127" pc="268442661" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="68" lineNum="128" pc="268442680" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="68" lineNum="129" pc="268442708" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="68" lineNum="130" pc="268442730" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="68" lineNum="131" pc="268442788" symbol="HMSConverter"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="69" lineNum="135" pc="268442792" symbol="MPStoMPH"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="69" lineNum="136" pc="268442796" symbol="MPStoMPH"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="70" lineNum="139" pc="268442806" symbol="metersToKm"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="70" lineNum="140" pc="268442810" symbol="metersToKm"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="144" pc="268442820" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="147" pc="268442824" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="148" pc="268442824" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="149" pc="268442824" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="150" pc="268442824" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="151" pc="268442835" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="152" pc="268442860" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="153" pc="268442885" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="154" pc="268442913" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="155" pc="268442924" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="156" pc="268442949" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="157" pc="268442974" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="158" pc="268443002" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="159" pc="268443013" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="160" pc="268443038" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="161" pc="268443057" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="163" pc="268443085" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="164" pc="268443110" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="165" pc="268443129" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="168" pc="268443154" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="71" lineNum="175" pc="268443196" symbol="drawValues"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="185" pc="268443239" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="186" pc="268443243" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="187" pc="268443270" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="188" pc="268443297" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="189" pc="268443309" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="190" pc="268443345" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="191" pc="268443389" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="193" pc="268443406" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="194" pc="268443421" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="195" pc="268443457" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="198" pc="268443548" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="200" pc="268443565" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="201" pc="268443581" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="202" pc="268443597" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="203" pc="268443613" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="205" pc="268443629" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="207" pc="268443665" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="208" pc="268443739" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="209" pc="268443813" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="217" pc="268443887" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="218" pc="268443908" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="219" pc="268443921" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="221" pc="268443951" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="222" pc="268443984" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="225" pc="268444014" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="226" pc="268444046" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="227" pc="268444078" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="228" pc="268444104" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="40" pc="268446697" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivity.mc" id="72" lineNum="53" pc="268446715" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="74" lineNum="6" pc="268444140" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="74" lineNum="7" pc="268444144" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="75" lineNum="11" pc="268444163" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="75" lineNum="12" pc="268444167" symbol="onLayout"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="76" lineNum="18" pc="268444205" symbol="onShow"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="77" lineNum="22" pc="268444210" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="77" lineNum="24" pc="268444214" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="78" lineNum="30" pc="268444235" symbol="onHide"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppView.mc" id="78" lineNum="4" pc="268446331" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="80" lineNum="7" pc="268444240" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="80" lineNum="8" pc="268444244" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="81" lineNum="13" pc="268444263" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="81" lineNum="14" pc="268444267" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="81" lineNum="15" pc="268444295" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarDelegate.mc" id="81" lineNum="5" pc="268446369" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="83" lineNum="16" pc="268444299" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="83" lineNum="17" pc="268444303" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="83" lineNum="18" pc="268444313" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="84" lineNum="22" pc="268444332" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="84" lineNum="23" pc="268444336" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="84" lineNum="24" pc="268444354" symbol="onMenu"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="85" lineNum="27" pc="268444358" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="85" lineNum="28" pc="268444362" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="85" lineNum="29" pc="268444383" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="85" lineNum="30" pc="268444396" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="85" lineNum="31" pc="268444411" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="85" lineNum="33" pc="268444417" symbol="onKey"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="88" lineNum="66" pc="268444660" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="88" lineNum="67" pc="268444664" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="88" lineNum="68" pc="268444692" symbol="onBack"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\PowerDelegate.mc" id="88" lineNum="13" pc="268446388" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="90" lineNum="8" pc="268444696" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="90" lineNum="9" pc="268444700" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="12" pc="268444719" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="13" pc="268444723" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="14" pc="268444734" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="15" pc="268444755" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="16" pc="268444838" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="17" pc="268444849" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="18" pc="268444870" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="19" pc="268444953" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="20" pc="268444964" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="21" pc="268444985" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="22" pc="268445013" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="23" pc="268445043" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="24" pc="268445078" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="25" pc="268445089" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="26" pc="268445110" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="27" pc="268445138" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="91" lineNum="28" pc="268445168" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="92" lineNum="31" pc="268445204" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="92" lineNum="32" pc="268445208" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="92" lineNum="35" pc="268445220" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="92" lineNum="36" pc="268445256" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="92" lineNum="40" pc="268445300" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="92" lineNum="41" pc="268445336" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\RadarActivityAppMenuDelegate.mc" id="92" lineNum="6" pc="268446483" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="94" lineNum="5" pc="268445400" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="94" lineNum="6" pc="268445404" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="95" lineNum="9" pc="268445423" symbol="onBikeRadarUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="95" lineNum="10" pc="268445427" symbol="onBikeRadarUpdate"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikeRadarListener.mc" id="95" lineNum="3" pc="268446464" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikePowerListener.mc" id="97" lineNum="6" pc="268445448" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikePowerListener.mc" id="97" lineNum="7" pc="268445452" symbol="initialize"/>
+        <entry filename="C:\\Users\\PC-User\\eclipse-workspace\\RadarActivityApp\\source\\MyBikePowerListener.mc" id="97" lineNum="4" pc="268446521" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="103" lineNum="19" pc="268445471" symbol="MainLayout"/>
+        <entry filename="Rez" id="103" lineNum="21" pc="268445483" symbol="MainLayout"/>
+        <entry filename="Rez" id="103" lineNum="22" pc="268445635" symbol="MainLayout"/>
+        <entry filename="Rez" id="103" lineNum="23" pc="268445787" symbol="MainLayout"/>
+        <entry filename="Rez" id="103" lineNum="24" pc="268445906" symbol="MainLayout"/>
+        <entry filename="Rez" id="103" lineNum="26" pc="268445958" symbol="MainLayout"/>
+        <entry filename="Rez" id="106" lineNum="40" pc="268445996" symbol="initialize"/>
+        <entry filename="Rez" id="106" lineNum="41" pc="268446000" symbol="initialize"/>
+        <entry filename="Rez" id="106" lineNum="42" pc="268446018" symbol="initialize"/>
+        <entry filename="Rez" id="106" lineNum="43" pc="268446074" symbol="initialize"/>
+        <entry filename="Rez" id="106" lineNum="44" pc="268446130" symbol="initialize"/>
+        <entry filename="Rez" id="106" lineNum="45" pc="268446186" symbol="initialize"/>
+        <entry filename="Rez" id="106" lineNum="38" pc="268446289" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="107" lineNum="1" pc="268446263" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="10" object="true" symbol="RadarActivity"/>
+        <entry id="20" object="true" symbol="RadarActivity"/>
         <entry id="8389346" symbol="text"/>
-        <entry id="31" method="true" symbol="HMSConverter"/>
+        <entry id="67" method="true" symbol="HMSConverter"/>
+        <entry id="48" method="true" symbol="&lt;globals/PowerDelegate/&lt;&gt;getButtonBit&gt;"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="50" symbol="&lt;globals/FTPDelegate/&lt;&gt;_parentView&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-        <entry id="27" method="true" symbol="stopRecording"/>
-        <entry id="29" method="true" symbol="startRecording"/>
-        <entry field="true" id="50" symbol="radarTarget"/>
+        <entry id="63" method="true" symbol="stopRecording"/>
+        <entry id="65" method="true" symbol="startRecording"/>
+        <entry id="18" object="true" symbol="FTPDelegate"/>
+        <entry field="true" id="86" symbol="radarTarget"/>
         <entry id="8388638" module="true" symbol="ActivityRecording"/>
-        <entry id="41" method="true" symbol="MainLayout"/>
+        <entry id="38" method="true" symbol="MainLayout"/>
+        <entry field="true" id="56" symbol="timer"/>
+        <entry id="62" method="true" symbol="buttonPressed"/>
         <entry field="true" id="8388890" symbol="sport"/>
-        <entry id="15" object="true" symbol="RadarActivityAppApp"/>
-        <entry field="true" id="20" symbol="caloriesBurned"/>
-        <entry field="true" id="46" symbol="&lt;globals/BaseInputDelegate/&lt;&gt;_view&gt;"/>
+        <entry id="13" object="true" symbol="RadarActivityAppApp"/>
+        <entry field="true" id="68" symbol="caloriesBurned"/>
+        <entry id="77" method="true" symbol="selectButtonPressed"/>
+        <entry id="78" method="true" symbol="upKey"/>
+        <entry field="true" id="51" symbol="&lt;globals/BaseInputDelegate/&lt;&gt;_view&gt;"/>
         <entry id="8390643" method="true" symbol="onBikeRadarUpdate"/>
-        <entry field="true" id="51" symbol="radarThreatSide"/>
-        <entry id="35" method="true" symbol="onPosition"/>
-        <entry id="11" object="true" symbol="RadarActivityAppView"/>
+        <entry field="true" id="87" symbol="radarThreatSide"/>
+        <entry id="52" method="true" symbol="onPosition"/>
+        <entry id="21" object="true" symbol="RadarActivityAppView"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="14" object="true" symbol="RadarActivityDelegate"/>
-        <entry field="true" id="48" symbol="radarArray"/>
-        <entry field="true" id="45" symbol="AppName"/>
+        <entry id="12" object="true" symbol="RadarActivityDelegate"/>
+        <entry id="8389554" method="true" symbol="onKeyReleased"/>
+        <entry field="true" id="84" symbol="radarArray"/>
+        <entry field="true" id="44" symbol="AppName"/>
         <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry field="true" id="55" symbol="bikePower"/>
         <entry field="true" id="8389807" symbol="data"/>
+        <entry field="true" id="46" symbol="&lt;globals/PowerDelegate/&lt;&gt;_parentView&gt;"/>
+        <entry field="true" id="31" symbol="&lt;globals/FTPInputDelegate/&lt;&gt;_view&gt;"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8389080" method="true" symbol="onMenu"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8389345" symbol="rezId"/>
+        <entry field="true" id="25" symbol="BUTTON_PUSH"/>
+        <entry id="14" object="true" symbol="FTPInputDelegate"/>
         <entry id="8388631" module="true" symbol="Activity"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389081" method="true" symbol="onBack"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="22" symbol="_session"/>
-        <entry field="true" id="44" symbol="prompt"/>
+        <entry field="true" id="57" symbol="_session"/>
+        <entry field="true" id="43" symbol="prompt"/>
         <entry id="8389410" module="true" symbol="AntPlus"/>
-        <entry id="18" object="true" symbol="RadarInputDelegate"/>
-        <entry id="32" method="true" symbol="MPStoMPH"/>
+        <entry id="16" object="true" symbol="RadarInputDelegate"/>
+        <entry id="73" method="true" symbol="MPStoMPH"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
-        <entry id="28" method="true" symbol="isSessionRecording"/>
+        <entry id="8389553" method="true" symbol="onKeyPressed"/>
+        <entry id="64" method="true" symbol="isSessionRecording"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
-        <entry id="56" symbol="item_2"/>
-        <entry id="55" symbol="item_1"/>
-        <entry id="37" module="true" symbol="Menus"/>
+        <entry id="80" method="true" symbol="menuButtonPressed"/>
+        <entry id="93" symbol="item_4"/>
+        <entry id="92" symbol="item_3"/>
+        <entry id="91" symbol="item_2"/>
+        <entry id="90" symbol="item_1"/>
+        <entry id="33" module="true" symbol="Menus"/>
         <entry id="8389275" method="true" symbol="getApp"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="13" object="true" symbol="RadarActivityAppDelegate"/>
+        <entry id="11" object="true" symbol="RadarActivityAppDelegate"/>
         <entry field="true" id="8388738" symbol="currentSpeed"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="21" symbol="time"/>
-        <entry field="true" id="26" symbol="hr"/>
+        <entry field="true" id="59" symbol="time"/>
+        <entry field="true" id="72" symbol="hr"/>
+        <entry id="79" method="true" symbol="downKey"/>
         <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="47" symbol="bikeRadar"/>
-        <entry id="33" method="true" symbol="metersToKm"/>
-        <entry field="true" id="24" symbol="speedMPH"/>
+        <entry field="true" id="24" symbol="BUTTON_NO_MORE"/>
+        <entry field="true" id="53" symbol="currentColour"/>
+        <entry id="27" object="true" symbol="PowerDelegate"/>
+        <entry field="true" id="83" symbol="bikeRadar"/>
+        <entry id="81" method="true" symbol="isFTPSet"/>
+        <entry id="74" method="true" symbol="metersToKm"/>
+        <entry field="true" id="70" symbol="speedMPH"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
         <entry field="true" id="8388911" symbol="distance"/>
-        <entry field="true" id="38" symbol="Logo"/>
-        <entry field="true" id="53" symbol="playToneCounter"/>
+        <entry field="true" id="34" symbol="Logo"/>
+        <entry field="true" id="89" symbol="playToneCounter"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry id="12" object="true" symbol="RadarDelegate"/>
-        <entry id="40" object="true" symbol="MainMenu"/>
-        <entry field="true" id="25" symbol="distanceKm"/>
+        <entry id="22" object="true" symbol="RadarDelegate"/>
+        <entry id="37" object="true" symbol="MainMenu"/>
+        <entry field="true" id="26" symbol="BUTTON_UNKNOWN"/>
+        <entry id="9" object="true" symbol="PowerInputDelegate"/>
+        <entry field="true" id="71" symbol="distanceKm"/>
         <entry id="8388985" method="true" symbol="playTone"/>
+        <entry id="10" object="true" symbol="PowerMeterAntView"/>
+        <entry field="true" id="61" symbol="FTP"/>
         <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="76" symbol="FTPSet"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="8388793" method="true" symbol="keys"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="39" symbol="LauncherIcon"/>
-        <entry field="true" id="23" symbol="clockTime"/>
+        <entry field="true" id="36" symbol="LauncherIcon"/>
+        <entry id="47" method="true" symbol="&lt;globals/PowerDelegate/&lt;&gt;getButton&gt;"/>
+        <entry field="true" id="69" symbol="clockTime"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="8388643" module="true" symbol="Sensor"/>
@@ -305,78 +564,129 @@
         <entry field="true" id="8388960" symbol="heartRate"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="23" symbol="BUTTON_MORE"/>
         <entry field="true" id="8388891" symbol="subSport"/>
-        <entry id="19" object="true" symbol="Radar"/>
-        <entry id="16" object="true" symbol="RadarActivityAppMenuDelegate"/>
+        <entry id="17" object="true" symbol="Radar"/>
+        <entry id="28" object="true" symbol="RadarActivityAppMenuDelegate"/>
+        <entry field="true" id="54" symbol="listener"/>
         <entry field="true" id="8388892" symbol="name"/>
-        <entry id="34" method="true" symbol="drawValues"/>
+        <entry field="true" id="58" symbol="screenRefreshCount"/>
+        <entry id="30" object="true" symbol="MyBikePowerListener"/>
+        <entry id="75" method="true" symbol="drawValues"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="15" object="true" symbol="FTPCalculator"/>
         <entry id="8389109" method="true" symbol="onMenuItem"/>
         <entry id="8389347" symbol="color"/>
+        <entry field="true" id="35" symbol="FrontPage"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry field="true" id="49" symbol="&lt;globals/PowerInputDelegate/&lt;&gt;_view&gt;"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
-        <entry field="true" id="49" symbol="radarSpeed"/>
-        <entry field="true" id="54" symbol="&lt;globals/RadarInputDelegate/&lt;&gt;_view&gt;"/>
-        <entry id="36" module="true" symbol="Layouts"/>
-        <entry id="17" object="true" symbol="MyBikeRadarListener"/>
+        <entry field="true" id="85" symbol="radarSpeed"/>
+        <entry field="true" id="45" symbol="&lt;globals/RadarInputDelegate/&lt;&gt;_view&gt;"/>
+        <entry id="32" module="true" symbol="Layouts"/>
+        <entry id="29" object="true" symbol="MyBikeRadarListener"/>
         <entry id="8388636" module="true" symbol="Attention"/>
         <entry field="true" id="8389343" symbol="minutes"/>
         <entry id="8388642" module="true" symbol="Position"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="60" symbol="totalPowerOutput"/>
         <entry id="8388635" module="true" symbol="Application"/>
         <entry field="true" id="8389642" symbol="title"/>
-        <entry id="30" method="true" symbol="onTimer"/>
-        <entry field="true" id="52" symbol="d"/>
-        <entry id="9" object="true" symbol="BaseInputDelegate"/>
-        <entry field="true" id="43" symbol="menu_label_2"/>
-        <entry field="true" id="42" symbol="menu_label_1"/>
+        <entry id="66" method="true" symbol="onTimer"/>
+        <entry field="true" id="88" symbol="d"/>
+        <entry id="19" object="true" symbol="BaseInputDelegate"/>
+        <entry field="true" id="40" symbol="menu_label_4"/>
+        <entry field="true" id="39" symbol="menu_label_3"/>
+        <entry field="true" id="42" symbol="menu_label_2"/>
+        <entry field="true" id="41" symbol="menu_label_1"/>
+        <entry id="82" method="true" symbol="drawPowerIndicator"/>
     </symbolTable>
     <localVars>
         <entry arg="true" endPc="268435488" name="view" stackId="1" startPc="268435456"/>
-        <entry endPc="268435710" name="i" stackId="1" startPc="268435581"/>
-        <entry endPc="268436062" name="timer" stackId="1" startPc="268436000"/>
-        <entry endPc="268436207" name="hours" stackId="2" startPc="268436068"/>
-        <entry endPc="268436207" name="minutes" stackId="3" startPc="268436068"/>
-        <entry endPc="268436207" name="timeString" stackId="5" startPc="268436068"/>
-        <entry endPc="268436207" name="seconds" stackId="4" startPc="268436068"/>
-        <entry arg="true" endPc="268436208" name="totalSeconds" stackId="1" startPc="268436064"/>
-        <entry arg="true" endPc="268436222" name="speed" stackId="1" startPc="268436209"/>
-        <entry arg="true" endPc="268436236" name="distance" stackId="1" startPc="268436223"/>
-        <entry endPc="268436654" name="firstHeight" stackId="6" startPc="268436241"/>
-        <entry endPc="268436654" name="width" stackId="5" startPc="268436241"/>
-        <entry endPc="268436654" name="secondHeight" stackId="7" startPc="268436241"/>
-        <entry arg="true" endPc="268436655" name="position" stackId="1" startPc="268436237"/>
-        <entry arg="true" endPc="268436655" name="dc" stackId="2" startPc="268436237"/>
-        <entry arg="true" endPc="268436655" name="value" stackId="4" startPc="268436237"/>
-        <entry arg="true" endPc="268436655" name="text" stackId="3" startPc="268436237"/>
-        <entry endPc="268437498" name="activeInfo" stackId="2" startPc="268436911"/>
-        <entry endPc="268437498" name="timeString" stackId="3" startPc="268436911"/>
-        <entry arg="true" endPc="268437502" name="dc" stackId="1" startPc="268436656"/>
-        <entry arg="true" endPc="268437567" name="dc" stackId="1" startPc="268437526"/>
-        <entry arg="true" endPc="268437597" name="dc" stackId="1" startPc="268437573"/>
-        <entry arg="true" endPc="268437863" name="state" stackId="1" startPc="268437859"/>
-        <entry arg="true" endPc="268437912" name="state" stackId="1" startPc="268437864"/>
-        <entry arg="true" endPc="268438033" name="info" stackId="1" startPc="268438029"/>
-        <entry arg="true" endPc="268438320" name="item" stackId="1" startPc="268438086"/>
-        <entry arg="true" endPc="268438516" name="dc" stackId="1" startPc="268438321"/>
-        <entry arg="true" endPc="268438564" name="data" stackId="1" startPc="268438540"/>
-        <entry arg="true" endPc="268438597" name="view" stackId="1" startPc="268438565"/>
-        <entry endPc="268438788" name="timer" stackId="2" startPc="268438646"/>
-        <entry arg="true" endPc="268438789" name="dc" stackId="1" startPc="268438642"/>
-        <entry endPc="268439042" name="i" stackId="3" startPc="268438933"/>
-        <entry endPc="268439757" name="percentageFill" stackId="5" startPc="268439250"/>
-        <entry endPc="268439773" name="i" stackId="4" startPc="268439230"/>
-        <entry endPc="268439773" name="radarInfo" stackId="2" startPc="268438799"/>
-        <entry arg="true" endPc="268439774" name="dc" stackId="1" startPc="268438795"/>
-        <entry endPc="268440284" name="rez_cmp_local_text_7128639794" stackId="2" startPc="268439792"/>
-        <entry endPc="268440284" name="rez_cmp_local_bitmap_Logo" stackId="4" startPc="268439792"/>
-        <entry endPc="268440284" name="rez_cmp_local_text_4120762431" stackId="3" startPc="268439792"/>
-        <entry arg="true" endPc="268440285" name="dc" stackId="1" startPc="268439780"/>
+        <entry endPc="268435573" name="timer" stackId="1" startPc="268435493"/>
+        <entry endPc="268436193" name="width" stackId="6" startPc="268435813"/>
+        <entry arg="true" endPc="268436194" name="max" stackId="2" startPc="268435809"/>
+        <entry arg="true" endPc="268436194" name="dc" stackId="1" startPc="268435809"/>
+        <entry arg="true" endPc="268436194" name="min" stackId="3" startPc="268435809"/>
+        <entry arg="true" endPc="268436194" name="power" stackId="4" startPc="268435809"/>
+        <entry arg="true" endPc="268436194" name="message" stackId="5" startPc="268435809"/>
+        <entry endPc="268437200" name="Cpower" stackId="2" startPc="268436320"/>
+        <entry endPc="268437200" name="power" stackId="3" startPc="268436320"/>
+        <entry arg="true" endPc="268437627" name="dc" stackId="1" startPc="268436195"/>
+        <entry arg="true" endPc="268437834" name="state" stackId="1" startPc="268437830"/>
+        <entry arg="true" endPc="268437883" name="state" stackId="1" startPc="268437835"/>
+        <entry arg="true" endPc="268438004" name="info" stackId="1" startPc="268438000"/>
+        <entry arg="true" endPc="268438066" name="view" stackId="1" startPc="268438034"/>
+        <entry endPc="268438872" name="phase" stackId="4" startPc="268438646"/>
+        <entry endPc="268438872" name="hours" stackId="2" startPc="268438646"/>
+        <entry endPc="268438872" name="minutes" stackId="3" startPc="268438646"/>
+        <entry endPc="268438872" name="timeString" stackId="6" startPc="268438646"/>
+        <entry endPc="268438872" name="seconds" stackId="5" startPc="268438646"/>
+        <entry arg="true" endPc="268438873" name="totalSeconds" stackId="1" startPc="268438642"/>
+        <entry endPc="268440302" name="Cpower" stackId="4" startPc="268439224"/>
+        <entry endPc="268440302" name="power" stackId="5" startPc="268439224"/>
+        <entry endPc="268440628" name="activeInfo" stackId="2" startPc="268439112"/>
+        <entry endPc="268440628" name="timeArray" stackId="3" startPc="268439112"/>
+        <entry arg="true" endPc="268440632" name="dc" stackId="1" startPc="268438874"/>
+        <entry arg="true" endPc="268440665" name="view" stackId="1" startPc="268440633"/>
+        <entry arg="true" endPc="268440835" name="dc" stackId="1" startPc="268440710"/>
+        <entry endPc="268441088" name="i" stackId="3" startPc="268440979"/>
+        <entry endPc="268441803" name="percentageFill" stackId="5" startPc="268441296"/>
+        <entry endPc="268441819" name="i" stackId="4" startPc="268441276"/>
+        <entry endPc="268441819" name="radarInfo" stackId="2" startPc="268440845"/>
+        <entry arg="true" endPc="268441820" name="dc" stackId="1" startPc="268440841"/>
+        <entry arg="true" endPc="268441876" name="view" stackId="1" startPc="268441844"/>
+        <entry arg="true" endPc="268441920" name="evt" stackId="1" startPc="268441913"/>
+        <entry arg="true" endPc="268441946" name="evt" stackId="1" startPc="268441921"/>
+        <entry arg="true" endPc="268441954" name="evt" stackId="1" startPc="268441947"/>
+        <entry arg="true" endPc="268441987" name="view" stackId="1" startPc="268441955"/>
+        <entry endPc="268442209" name="i" stackId="1" startPc="268442080"/>
+        <entry endPc="268442790" name="hours" stackId="2" startPc="268442651"/>
+        <entry endPc="268442790" name="minutes" stackId="3" startPc="268442651"/>
+        <entry endPc="268442790" name="timeString" stackId="5" startPc="268442651"/>
+        <entry endPc="268442790" name="seconds" stackId="4" startPc="268442651"/>
+        <entry arg="true" endPc="268442791" name="totalSeconds" stackId="1" startPc="268442647"/>
+        <entry arg="true" endPc="268442805" name="speed" stackId="1" startPc="268442792"/>
+        <entry arg="true" endPc="268442819" name="distance" stackId="1" startPc="268442806"/>
+        <entry endPc="268443237" name="firstHeight" stackId="6" startPc="268442824"/>
+        <entry endPc="268443237" name="width" stackId="5" startPc="268442824"/>
+        <entry endPc="268443237" name="secondHeight" stackId="7" startPc="268442824"/>
+        <entry arg="true" endPc="268443238" name="position" stackId="1" startPc="268442820"/>
+        <entry arg="true" endPc="268443238" name="dc" stackId="2" startPc="268442820"/>
+        <entry arg="true" endPc="268443238" name="value" stackId="4" startPc="268442820"/>
+        <entry arg="true" endPc="268443238" name="text" stackId="3" startPc="268442820"/>
+        <entry endPc="268444135" name="activeInfo" stackId="2" startPc="268443548"/>
+        <entry endPc="268444135" name="timeString" stackId="3" startPc="268443548"/>
+        <entry arg="true" endPc="268444139" name="dc" stackId="1" startPc="268443239"/>
+        <entry arg="true" endPc="268444204" name="dc" stackId="1" startPc="268444163"/>
+        <entry arg="true" endPc="268444234" name="dc" stackId="1" startPc="268444210"/>
+        <entry arg="true" endPc="268444331" name="view" stackId="1" startPc="268444299"/>
+        <entry endPc="268444413" name="button" stackId="3" startPc="268444383"/>
+        <entry endPc="268444413" name="key" stackId="2" startPc="268444383"/>
+        <entry arg="true" endPc="268444420" name="evt" stackId="1" startPc="268444358"/>
+        <entry endPc="268444531" name="buttonBit" stackId="2" startPc="268444425"/>
+        <entry arg="true" endPc="268444532" name="key" stackId="1" startPc="268444421"/>
+        <entry arg="true" endPc="268444659" name="key" stackId="1" startPc="268444533"/>
+        <entry endPc="268445074" name="del" stackId="3" startPc="268444964"/>
+        <entry endPc="268445074" name="pm" stackId="2" startPc="268444964"/>
+        <entry endPc="268445199" name="delegate" stackId="5" startPc="268445089"/>
+        <entry endPc="268445199" name="ftp" stackId="4" startPc="268445089"/>
+        <entry arg="true" endPc="268445203" name="item" stackId="1" startPc="268444719"/>
+        <entry arg="true" endPc="268445399" name="dc" stackId="1" startPc="268445204"/>
+        <entry arg="true" endPc="268445447" name="data" stackId="1" startPc="268445423"/>
+        <entry endPc="268445994" name="rez_cmp_local_bitmap_FrontPage" stackId="4" startPc="268445483"/>
+        <entry endPc="268445994" name="rez_cmp_local_text_1960526269" stackId="3" startPc="268445483"/>
+        <entry endPc="268445994" name="rez_cmp_local_text_1077727789" stackId="2" startPc="268445483"/>
+        <entry arg="true" endPc="268445995" name="dc" stackId="1" startPc="268445471"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Logo"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="FrontPage"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_3"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_4"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="title"/>
@@ -385,27 +695,189 @@
     </annotations>
     <dataEntryOffsetMappings>
         <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry label="globals/RadarActivity" offset="230" parentId="globals" symbolId="RadarActivity" type="class"/>
-        <dataEntry label="globals/RadarActivityAppApp" offset="453" parentId="globals" symbolId="RadarActivityAppApp" type="class"/>
-        <dataEntry label="globals/Rez" offset="532" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="611" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="658" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Menus/MainMenu" offset="697" parentId="Menus" symbolId="MainMenu" type="class"/>
-        <dataEntry label="globals/Rez/Fonts" offset="744" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="775" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="814" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="845" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/RadarActivityAppView" offset="916" parentId="globals" symbolId="RadarActivityAppView" type="class"/>
-        <dataEntry label="globals/MyBikeRadarListener" offset="995" parentId="globals" symbolId="MyBikeRadarListener" type="class"/>
-        <dataEntry label="globals/BaseInputDelegate" offset="1050" parentId="globals" symbolId="BaseInputDelegate" type="class"/>
-        <dataEntry label="globals/RadarDelegate" offset="1113" parentId="globals" symbolId="RadarDelegate" type="class"/>
-        <dataEntry label="globals/Radar" offset="1168" parentId="globals" symbolId="Radar" type="class"/>
-        <dataEntry label="globals/RadarActivityAppMenuDelegate" offset="1319" parentId="globals" symbolId="RadarActivityAppMenuDelegate" type="class"/>
-        <dataEntry label="globals/RadarActivityAppDelegate" offset="1382" parentId="globals" symbolId="RadarActivityAppDelegate" type="class"/>
-        <dataEntry label="globals/RadarInputDelegate" offset="1437" parentId="globals" symbolId="RadarInputDelegate" type="class"/>
-        <dataEntry label="globals/RadarActivityDelegate" offset="1492" parentId="globals" symbolId="RadarActivityDelegate" type="class"/>
+        <dataEntry label="globals/FTPInputDelegate" offset="318" parentId="globals" symbolId="FTPInputDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="373" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="452" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="507" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="546" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry label="globals/Rez/Fonts" offset="593" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="624" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="663" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="694" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/RadarActivityAppDelegate" offset="781" parentId="globals" symbolId="RadarActivityAppDelegate" type="class"/>
+        <dataEntry label="globals/RadarActivityAppView" offset="836" parentId="globals" symbolId="RadarActivityAppView" type="class"/>
+        <dataEntry label="globals/RadarInputDelegate" offset="915" parentId="globals" symbolId="RadarInputDelegate" type="class"/>
+        <dataEntry label="globals/RadarDelegate" offset="970" parentId="globals" symbolId="RadarDelegate" type="class"/>
+        <dataEntry label="globals/PowerDelegate" offset="1025" parentId="globals" symbolId="PowerDelegate" type="class"/>
+        <dataEntry label="globals/PowerInputDelegate" offset="1120" parentId="globals" symbolId="PowerInputDelegate" type="class"/>
+        <dataEntry label="globals/FTPDelegate" offset="1175" parentId="globals" symbolId="FTPDelegate" type="class"/>
+        <dataEntry label="globals/RadarActivityDelegate" offset="1262" parentId="globals" symbolId="RadarActivityDelegate" type="class"/>
+        <dataEntry label="globals/MyBikeRadarListener" offset="1317" parentId="globals" symbolId="MyBikeRadarListener" type="class"/>
+        <dataEntry label="globals/RadarActivityAppMenuDelegate" offset="1372" parentId="globals" symbolId="RadarActivityAppMenuDelegate" type="class"/>
+        <dataEntry label="globals/BaseInputDelegate" offset="1435" parentId="globals" symbolId="BaseInputDelegate" type="class"/>
+        <dataEntry label="globals/MyBikePowerListener" offset="1498" parentId="globals" symbolId="MyBikePowerListener" type="class"/>
+        <dataEntry label="globals/RadarActivityAppApp" offset="1545" parentId="globals" symbolId="RadarActivityAppApp" type="class"/>
+        <dataEntry label="globals/FTPCalculator" offset="1624" parentId="globals" symbolId="FTPCalculator" type="class"/>
+        <dataEntry label="globals/RadarActivity" offset="1823" parentId="globals" symbolId="RadarActivity" type="class"/>
+        <dataEntry label="globals/PowerMeterAntView" offset="2062" parentId="globals" symbolId="PowerMeterAntView" type="class"/>
+        <dataEntry label="globals/Radar" offset="2229" parentId="globals" symbolId="Radar" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
+        <functionEntry accessMode="public" name="initialize" parent="PowerInputDelegate">
+            <param id="view"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The app view</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimer" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="selectButtonPressed" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="upKey" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="downKey" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="menuButtonPressed" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isFTPSet" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPowerIndicator" parent="PowerMeterAntView">
+            <param id="dc"/>
+            <param id="max"/>
+            <param id="min"/>
+            <param id="power"/>
+            <param id="message"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PowerMeterAntView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="PowerMeterAntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RadarActivityAppDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="RadarActivityAppDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RadarActivityDelegate">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="RadarActivityDelegate">
+            <documentation><![CDATA[<div class="description"> Handle back behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RadarActivityAppApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="RadarActivityAppApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="RadarActivityAppApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="RadarActivityAppApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="RadarActivityAppApp">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="FTPInputDelegate">
+            <param id="view"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The app view</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="FTPCalculator">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="buttonPressed" parent="FTPCalculator">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="stopRecording" parent="FTPCalculator">
+            <documentation><![CDATA[<div class="description"> Stop the recording if necessary<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isSessionRecording" parent="FTPCalculator">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startRecording" parent="FTPCalculator">
+            <documentation><![CDATA[<div class="description"> Start recording a session<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="FTPCalculator">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimer" parent="FTPCalculator">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="FTPCalculator">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="HMSConverter" parent="FTPCalculator">
+            <param id="totalSeconds"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="FTPCalculator">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RadarInputDelegate">
+            <param id="view"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The app view</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Radar">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimer" parent="Radar">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="Radar">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="Radar">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="Radar">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="Radar">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="FTPDelegate">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="FTPDelegate">
+            <documentation><![CDATA[<div class="description"> Handle back behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="FTPDelegate">
+            <param id="evt"/>
+            <documentation><![CDATA[<div class="description"> Handle a physical button being pressed and released<br/> <div class="param"> evt The key event that occurred</div><br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKeyPressed" parent="FTPDelegate">
+            <param id="evt"/>
+            <documentation><![CDATA[<div class="description"> Handle a physical button being pressed<br/> <div class="param"> evt The key event that occurred</div><br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKeyReleased" parent="FTPDelegate">
+            <param id="evt"/>
+            <documentation><![CDATA[<div class="description"> Handle a physical button being released<br/> <div class="param"> evt The key event that occurred</div><br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="BaseInputDelegate">
             <param id="view"/>
             <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The app view</div><br/></div>]]></documentation>
@@ -429,6 +901,9 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onShow" parent="RadarActivity">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="RadarActivity">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="HMSConverter" parent="RadarActivity">
@@ -477,38 +952,27 @@
         <functionEntry accessMode="public" name="onBack" parent="RadarDelegate">
             <documentation><![CDATA[<div class="description"> Handle back behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="RadarActivityAppDelegate">
+        <functionEntry accessMode="public" name="initialize" parent="PowerDelegate">
+            <param id="view"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onMenu" parent="RadarActivityAppDelegate">
+        <functionEntry accessMode="public" name="onMenu" parent="PowerDelegate">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="RadarActivityDelegate">
-            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        <functionEntry accessMode="public" name="onKey" parent="PowerDelegate">
+            <param id="evt"/>
+            <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onBack" parent="RadarActivityDelegate">
+        <functionEntry accessMode="private" name="&lt;globals/PowerDelegate/&lt;&gt;getButton&gt;" parent="PowerDelegate">
+            <param id="key"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/PowerDelegate/&lt;&gt;getButtonBit&gt;" parent="PowerDelegate">
+            <param id="key"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="PowerDelegate">
             <documentation><![CDATA[<div class="description"> Handle back behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="RadarActivityAppApp">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onStart" parent="RadarActivityAppApp">
-            <param id="state"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onStop" parent="RadarActivityAppApp">
-            <param id="state"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="getInitialView" parent="RadarActivityAppApp">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onPosition" parent="RadarActivityAppApp">
-            <param id="info"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="getApp">
-            <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="RadarActivityAppMenuDelegate">
             <documentation/>
@@ -528,29 +992,8 @@
             <param id="data"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="RadarInputDelegate">
-            <param id="view"/>
-            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The app view</div><br/></div>]]></documentation>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="Radar">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onTimer" parent="Radar">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onLayout" parent="Radar">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onShow" parent="Radar">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="Radar">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onHide" parent="Radar">
-            <documentation/>
+        <functionEntry accessMode="public" name="initialize" parent="MyBikePowerListener">
+            <documentation><![CDATA[<div class="description"> Initializes class variables<br/></div>]]></documentation>
         </functionEntry>
         <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
             <param id="dc"/>

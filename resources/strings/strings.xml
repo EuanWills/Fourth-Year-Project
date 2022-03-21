@@ -5,4 +5,6 @@
 
     <string id="menu_label_1">Activity Screen</string>
     <string id="menu_label_2">Radar Screen</string>
+    <string id="menu_label_3">Power Meter Screen</string>
+    <string id="menu_label_4">FTP Calculator</string>
 </strings>

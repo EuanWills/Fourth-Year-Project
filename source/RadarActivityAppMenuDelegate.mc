@@ -16,6 +16,16 @@ class RadarActivityAppMenuDelegate extends WatchUi.MenuInputDelegate {
         } else if (item == :item_2) {
             System.println("Radar Screen");
             WatchUi.pushView(new $.Radar(), new $.RadarDelegate(), WatchUi.SLIDE_UP);
+        } else if(item == :item_3){
+        	System.println("Power Meter Screen");
+        	var pm = new $.PowerMeterAntView();
+        	var del = new $.PowerDelegate(pm);
+        	WatchUi.pushView(pm, del, WatchUi.SLIDE_UP);
+        } else if(item == :item_4){
+        	System.println("FTP Calculator");
+        	var ftp = new $.FTPCalculator();
+        	var delegate = new $.FTPDelegate(ftp);
+        	WatchUi.pushView(ftp, delegate, WatchUi.SLIDE_UP);
         }
     }
     function onUpdate(dc) {
