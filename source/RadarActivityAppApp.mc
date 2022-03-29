@@ -10,7 +10,7 @@ class RadarActivityAppApp extends Application.AppBase {
 
     // onStart() is called on application start up
     function onStart(state as Dictionary?) as Void {
-    	
+    	Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
     }
 
     // onStop() is called when your application is exiting
@@ -21,7 +21,7 @@ class RadarActivityAppApp extends Application.AppBase {
     // Return the initial view of your application here
     function getInitialView() as Array<Views or InputDelegates>? {
         return [ new RadarActivityAppView(), new RadarActivityAppDelegate() ] as Array<Views or InputDelegates>;
-        Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
+        
     }
     
     function onPosition(info as Info) as Void{

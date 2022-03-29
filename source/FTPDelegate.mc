@@ -18,27 +18,14 @@ class FTPDelegate extends WatchUi.BehaviorDelegate {
         return true;
     }
     
-        //! Handle a physical button being pressed and released
-    //! @param evt The key event that occurred
-    //! @return true if handled, false otherwise
-    public function onKey(evt as KeyEvent) as Boolean {
-		
-        return true;
-    }
 
     //! Handle a physical button being pressed
     //! @param evt The key event that occurred
     //! @return true if handled, false otherwise
     public function onKeyPressed(evt as KeyEvent) as Boolean {
-		_parentView.buttonPressed();
+		_parentView.buttonPressed(); //when button pressed start activity recording for FTP Calculator
         return true;
     }
 
-    //! Handle a physical button being released
-    //! @param evt The key event that occurred
-    //! @return true if handled, false otherwise
-    public function onKeyReleased(evt as KeyEvent) as Boolean {
-        return true;
-    }
 
 }

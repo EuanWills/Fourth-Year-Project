@@ -10,36 +10,24 @@ class RadarActivityAppMenuDelegate extends WatchUi.MenuInputDelegate {
     }
 
     function onMenuItem(item as Symbol) as Void {
-        if (item == :item_1) {
+        if (item == :item_1) { 		  //activity menu item
             System.println("Activity Screen");
             WatchUi.pushView(new $.RadarActivity(), new $.RadarActivityDelegate(), WatchUi.SLIDE_UP);
-        } else if (item == :item_2) {
+        } else if (item == :item_2) { //radar menu item
             System.println("Radar Screen");
             WatchUi.pushView(new $.Radar(), new $.RadarDelegate(), WatchUi.SLIDE_UP);
-        } else if(item == :item_3){
+        } else if(item == :item_3){   //power meter screen menu item
         	System.println("Power Meter Screen");
         	var pm = new $.PowerMeterAntView();
         	var del = new $.PowerDelegate(pm);
         	WatchUi.pushView(pm, del, WatchUi.SLIDE_UP);
-        } else if(item == :item_4){
+        } else if(item == :item_4){	   //FTP Calculator menu item
         	System.println("FTP Calculator");
         	var ftp = new $.FTPCalculator();
         	var delegate = new $.FTPDelegate(ftp);
         	WatchUi.pushView(ftp, delegate, WatchUi.SLIDE_UP);
         }
     }
-    function onUpdate(dc) {
-    	dc.clear(); // Clear the display
 
-    // Set a white color for drawing and draw a rectangle
-	    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-    	dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
-
-    // Draw black text against a white
-    // background for the temperature
-	    dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_WHITE);
-    	dc.drawText(dc.getWidth()/2, 0, Gfx.FONT_XTINY,
-        "Test", Gfx.TEXT_JUSTIFY_CENTER);
-  }
 
 }

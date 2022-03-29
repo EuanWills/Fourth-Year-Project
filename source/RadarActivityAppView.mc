@@ -9,7 +9,7 @@ class RadarActivityAppView extends WatchUi.View {
 
     // Load your resources here
     function onLayout(dc as Dc) as Void {
-        setLayout(Rez.Layouts.MainLayout(dc));
+        setLayout(Rez.Layouts.MainLayout(dc)); //sets the layout of the main page form resources
     }
 
     // Called when this View is brought to the foreground. Restore

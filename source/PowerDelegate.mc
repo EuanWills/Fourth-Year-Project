@@ -12,7 +12,7 @@ public enum Button {
 //! Input handler for the detail views
 class PowerDelegate extends WatchUi.BehaviorDelegate {
     //! Constructor
-    private var _parentView as PowerMeterAntView;
+    private var _parentView as PowerMeterAntView; //ties delegate to power meter page
     public function initialize(view as PowerMeterAntView) {
 		_parentView = view;
         BehaviorDelegate.initialize();
@@ -25,9 +25,9 @@ class PowerDelegate extends WatchUi.BehaviorDelegate {
     }
     
     public function onKey(evt as KeyEvent) as Boolean {
-    	if(!_parentView.isFTPSet()){
-	        var key = evt.getKey();
-	        var button = getButton(key);
+    	if(!_parentView.isFTPSet()){ //if the FTP is not yet set
+	        var key = evt.getKey(); //capture the key pressed
+	        var button = getButton(key); //send key pressed to getButton function in power meter page
 	        return true;
 	    }else{
 	    	return false;
@@ -35,19 +35,22 @@ class PowerDelegate extends WatchUi.BehaviorDelegate {
     }
     
     private function getButton(key as Key) as Button {
-        var buttonBit = getButtonBit(key);
-        if (buttonBit == null) {
+        var buttonBit = getButtonBit(key); 
+        if (buttonBit == null) { //if button not up, down or menu
             return null;
-        }else if(buttonBit == System.BUTTON_INPUT_UP){
+        }else if(buttonBit == System.BUTTON_INPUT_UP){ //up button
 			_parentView.upKey();
-        }else if(buttonBit == System.BUTTON_INPUT_DOWN){
+			return buttonBit;
+        }else if(buttonBit == System.BUTTON_INPUT_DOWN){ //down button
         	_parentView.downKey();
+        	return buttonBit;
         }else{
         	return null;
         }
     }
     
-        private function getButtonBit(key as Key) as ButtonInputs? {
+    //!find which button triggured key press
+    private function getButtonBit(key as Key) as ButtonInputs? {
         if (key == KEY_ENTER) {
             return System.BUTTON_INPUT_SELECT;
         } else if (key == KEY_UP) {

@@ -55,8 +55,7 @@ class RadarActivity extends WatchUi.View {
 	
     function initialize() {
     	var i;
-    	Sensor.setEnabledSensors([Sensor.SENSOR_HEARTRATE,Sensor.SENSOR_BIKESPEED]);
-    	//Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
+    	Sensor.setEnabledSensors([Sensor.SENSOR_HEARTRATE,Sensor.SENSOR_BIKESPEED]); //enables relevent sensors
     	View.initialize();
        	if (Toybox has :ActivityRecording) {
             if (!isSessionRecording()) {
@@ -75,15 +74,17 @@ class RadarActivity extends WatchUi.View {
         }
     }
 
+	//!session recording getter
     public function isSessionRecording() as Boolean {
         return (_session != null) && _session.isRecording();
     }
+    
     //! Start recording a session
     public function startRecording() as Void {
-        _session = ActivityRecording.createSession({          // set up recording session
+        _session = ActivityRecording.createSession({               // set up recording session
 	                 :name=>"Biking",                              // set session name
-	                 :sport=>ActivityRecording.SPORT_GENERIC,       // set sport type
-	                 :subSport=>ActivityRecording.SUB_SPORT_GENERIC // set sub sport type
+	                 :sport=>ActivityRecording.SPORT_CYCLING,      // set sport type
+	                 :subSport=>ActivityRecording.SUB_SPORT_ROAD   // set sub sport type
 	           });
         _session.start();
         WatchUi.requestUpdate();
@@ -96,8 +97,7 @@ class RadarActivity extends WatchUi.View {
 	
     
     function onShow(){
-    	timer = new Timer.Timer();
-    	timer.start( method(:onTimer), 1000, true ); 
+    	timer.start( method(:onTimer), 1000, true ); //refresh every 1000 milliseconds
     	
     }
     
@@ -110,7 +110,9 @@ class RadarActivity extends WatchUi.View {
         timer.stop();
     }
 
-    function HMSConverter(totalSeconds){ //got this fropm forums #
+	//! converts basline seconds varible into hh:mm:ss format,
+    //! this is a standard funciton
+    function HMSConverter(totalSeconds){ 
     	totalSeconds = totalSeconds /1000;
     	var hours = (totalSeconds / 3600).toNumber();
 		var minutes = ((totalSeconds - hours * 3600) / 60).toNumber();
@@ -147,29 +149,25 @@ class RadarActivity extends WatchUi.View {
     		width = dc.getWidth() *1/4;
     		firstHeight = dc.getHeight() *3/8;
     		secondHeight = dc.getHeight() *5/8;
-    	}else if(position == 3){ //middle right
+    	}else{ //middle right
     		width = dc.getWidth() *3/4;
     	   	firstHeight = dc.getHeight() *3/8;
     		secondHeight = dc.getHeight() *5/8;
-    	}else{ //bottom
-			width = dc.getWidth() /2;
-			firstHeight = dc.getHeight() *3/4;
-    		secondHeight = dc.getHeight() *7/8;
     	}
     
     	dc.drawText(
-		    width,                      // gets the width of the device and divides by 2
-		    firstHeight,                     // gets the height of the device and divides by 2
+		    width,                      			 // gets width from if function
+		    firstHeight,                     		 // gets lable height from if funciton
 		    Graphics.FONT_MEDIUM,                    // sets the font size
-		    text,                          // the String to display#
-		    Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		    text,                         			 // the String to display
+		    Graphics.TEXT_JUSTIFY_CENTER             // sets the justification for the text
 		            );
 		dc.drawText(
-		    width,                      // gets the width of the device and divides by 2
-		    secondHeight,                     // gets the height of the device and divides by 2
-		    Graphics.FONT_LARGE,                    // sets the font size
-		    value,                          // the String to display
-		    Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		    width,                     
+		    secondHeight,                   	     // gets activity info height from if funciton
+		    Graphics.FONT_LARGE,               
+		    value,                        
+		    Graphics.TEXT_JUSTIFY_CENTER           
 		            );
     }
     
@@ -186,47 +184,46 @@ class RadarActivity extends WatchUi.View {
             }else{
             	
                	var activeInfo = Activity.getActivityInfo();
-		    	//heartRate = activeInfo.currentHeartRate; //dont think you can display this...
-		    	currentSpeed = activeInfo.currentSpeed; //converts mps to mph
-		    	distance = activeInfo.elapsedDistance; //convert meters to km
+		    	
+		    	currentSpeed = activeInfo.currentSpeed; 
+		    	distance = activeInfo.elapsedDistance; 
 		    	time = activeInfo.elapsedTime; //convert milliseconds to seconds
 		    	caloriesBurned = activeInfo.calories;
-		    	power = activeInfo.currentPower;
 		    	
 		    	dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
 		    	
+		    	//draws seperating lines
 		    	dc.drawLine(dc.getWidth()/2,0, dc.getWidth()/2,dc.getHeight()*3/4);
 		    	dc.drawLine(0,dc.getHeight()*3/8, dc.getWidth(), dc.getHeight()*3/8);
 		    	dc.drawLine(0,dc.getHeight()*3/4, dc.getWidth(), dc.getHeight()*3/4);
-		    	
-		    	
-//		    	currentSpeed = currentSpeed * 2.2369;
-//		    	distance = distance / 1000;
-//		    	time = time / 1000;
-//		    	
-				
 
 		    	var timeString = HMSConverter(time);
 		    	if(currentSpeed != null){
-		    		speedMPH = MPStoMPH(currentSpeed);
+		    		speedMPH = MPStoMPH(currentSpeed); //converts mps to mph
 		    		speedMPH = speedMPH.format("%.2f");
 		    	}
+
 		        if(distance != null && distance != 0){
-		        	distanceKm = metersToKm(distance);
+		        	distanceKm = metersToKm(distance); //convert meters to km
 		      		distanceKm = distanceKm.format("%.2f");
 		      	}  
-		        
-		        drawValues(0, dc, "Distance (km)", distanceKm);
-		        drawValues(1, dc, "Speed (mph)", speedMPH);
-		        drawValues(2, dc, "Elapsed \n Time", timeString);
-		        drawValues(3, dc, "Calories \n Burned", caloriesBurned);
-		        drawValues(4, dc, "Power (W)", power);
+		      	
 
-		            
+		    	    
+		        drawValues(0, dc, "Distance (km)", distanceKm); 		//draws distance
+		        drawValues(1, dc, "Speed (mph)", speedMPH);     		//draws speed
+		        drawValues(2, dc, "Elapsed \n Time", timeString);		//draws elapsed time
+		        drawValues(3, dc, "Calories \n Burned", caloriesBurned);//draws claories burned
+
+		        dc.drawText(
+		    		dc.getWidth() *1/2,                      // sets width
+		    		dc.getHeight() *7/9,                     // sets height
+		    		Graphics.FONT_LARGE,                    // sets the font size
+		    		"Activity Page",                          // the String to display
+		    		Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
+		        );    
             }
        	}
-      
- 
 
     }
     

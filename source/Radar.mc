@@ -29,15 +29,12 @@ class Radar extends WatchUi.View {
 	var radarSpeed = new [8];//~ speed data
 	var radarTarget = new [8];//~ threat level
 	var radarThreatSide = new [8];//~ threat position
-	var d = 0;
-	var playToneCounter = 0;
+	var playToneCounter = 0; //how long alert tone sounds for
 	var timer = new Timer.Timer();
 	
-//	var myBmp;
 	
     function initialize() {
         View.initialize();
-       // myBmp=WatchUi.loadResource(Rez.Drawables.car);  //load the bitmap using id in resources
     }	
 	
 	
@@ -65,15 +62,13 @@ class Radar extends WatchUi.View {
 
     // Update the view
     function onUpdate(dc as Dc) as Void {
-    	dc.clear();
+    	dc.clear(); //clear the content of the page every update
     	
     	
     	
     	dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-    	dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight()); 
-    	//dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);    
+    	dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());     
     	var radarInfo = bikeRadar.getRadarInfo(); //retreieves all radar information using ANT
-
  		if(radarInfo){
 	     	for(var i = 0; i < 8; i++){ //sets all radar values in relevent array
 		    	radarArray[i] = radarInfo[i].range;
@@ -82,44 +77,46 @@ class Radar extends WatchUi.View {
 		    	radarThreatSide[i] = radarInfo[i].threatSide;
 		 	}
 		    	
-		}	
-		dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-		dc.drawRoundedRectangle(0, (dc.getHeight()*1/2)-35, dc.getWidth(), 70, 20); 		
-	//	var drawValues = [1, 2, 3, 4, 5, 6, 7, 8];
-		dc.drawText(dc.getWidth()/2, 0, Graphics.FONT_LARGE,"Radar View", Graphics.TEXT_JUSTIFY_CENTER);
-	//	var counter = 1;
-		for(var i = 0; i < 8; i++){
-			if(radarArray[i]>0){ //if there is radar data
-
-				if(radarTarget[i]==2){ //if the threat level is high display red circle
-					dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
-					if(playToneCounter < 50 && playToneCounter >= 1){
-						playToneCounter+=1;
-					}else{
-						playToneCounter = 0;
+			dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+			dc.drawRoundedRectangle(0, (dc.getHeight()*1/2)-35, dc.getWidth(), 70, 20); //draws rectangular container for radar objects		
+			dc.drawText(dc.getWidth()/2, 0, Graphics.FONT_LARGE,"Radar View", Graphics.TEXT_JUSTIFY_CENTER);
+			for(var i = 0; i < 8; i++){
+				if(radarArray[i]>0){ //if there is radar data
+	
+					if(radarTarget[i]==2){ //if the threat level is high display red circle
+						dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
+						if(playToneCounter < 50 && playToneCounter >= 1){//play alert tone
+							playToneCounter+=1;
+						}else{
+							playToneCounter = 0;
+						}
+						if (Attention has :playTone && playToneCounter == 0) {
+	   						Attention.playTone(Attention.TONE_LOUD_BEEP);
+	   						playToneCounter +=1;
+						}
+					}else if(radarTarget[i]==1){ //otherwise make it yellow
+						dc.setColor(Graphics.COLOR_YELLOW, Graphics.COLOR_TRANSPARENT);
 					}
-					if (Attention has :playTone && playToneCounter == 0) {
-   						Attention.playTone(Attention.TONE_LOUD_BEEP);
-   						playToneCounter +=1;
+					var percentageFill = (140-radarArray[i])/140; //percentage of rectangle the radar object should fill
+					if(radarThreatSide[i] == 0){ //if the threat is directly in front of the radar display circle in middle
+						dc.fillCircle(dc.getWidth() / 2, dc.getHeight() / 2, 35*percentageFill);
+					}else if(radarThreatSide[i] == 1){ //if right disaply circle right
+						dc.fillCircle(4/5 * dc.getWidth(), dc.getHeight() / 2, 35*percentageFill);
+					}else{ //if left display circle left
+						dc.fillCircle(1/5 * dc.getWidth(), dc.getHeight() / 2, 35*percentageFill);
 					}
-				}else if(radarTarget[i]==1){ //otherwise make it yellow
-					dc.setColor(Graphics.COLOR_YELLOW, Graphics.COLOR_TRANSPARENT);
-				}
-				var percentageFill = (140-radarArray[i])/140;
-				//dc.drawBitmap(dc.getWidth() / 2, dc.getWidth() / 2, myBmp);
-				if(radarThreatSide[i] == 0){ //if the threat is directly in front of the radar display circle in middle
-					dc.fillCircle(dc.getWidth() / 2, dc.getHeight() / 2, 35*percentageFill);
-				}else if(radarThreatSide[i] == 1){ //if right disaply circle right
-					dc.fillCircle(4/5 * dc.getWidth(), dc.getHeight() / 2, 35*percentageFill);
-				}else{ //if left display circle left
-					dc.fillCircle(1/5 * dc.getWidth(), dc.getHeight() / 2, 35*percentageFill);
-				}
-			
-
-	    	}
 				
-			
-		}
+	
+		    	}
+					
+				
+			}
+		    
+		}else{ //if ANT connection lost
+			dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+    		dc.drawText(dc.getWidth()/2, dc.getHeight()*1/5, Graphics.FONT_LARGE, "Connection Lost \n please reconnect\n radar", Graphics.TEXT_JUSTIFY_CENTER);
+		}	
+		
 
 	}
 		
