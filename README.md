@@ -22,7 +22,7 @@ RadarActivityAppDelegate - input handler for front page
 
 RadarActivityAppMenuDelegate - Class that deals with the menu selection process
 
-
+### Set-up
 
 To run this project please download the Monkey C SDK (Software Development Kit) and follow the instructions for adding the Monkey C extention to Visual Studio via the following link:
 https://developer.garmin.com/connect-iq/sdk/
