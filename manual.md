@@ -5,6 +5,6 @@ To run this project please download the Monkey C SDK (Software Development Kit) 
 
 After that run the application in simulation, here you can traverse the app and simulate activity data to view what the Activity page would look like in motion:
 
-image
+![image](https://user-images.githubusercontent.com/59978449/160699946-55e6d65b-0278-464c-a6b1-d0931e6b80d4.png)
 
 Unfortunatley ANT communication cannot be simulated, you need to run the application on a Garmin device to do so. Therefore, the FTP calculator, power meter and radar pages cannot be displayed properly in simulation.
